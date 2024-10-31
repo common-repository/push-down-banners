@@ -1,0 +1,803 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Melodic Media
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-10 16:36+0200\n"
+"PO-Revision-Date: 2016-02-10 16:42+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: pushdownbanner.php:32
+msgid "Buy Full Version"
+msgstr "Tam sürümü satın al"
+
+#: pushdownoptions.php:387
+msgid "Push Down Banners"
+msgstr "Banner Aşağı itin"
+
+#: pushdownoptions.php:388
+msgid "Add New Pushdown Banner"
+msgstr "Yeni Aşağı Açılan Banner ekle"
+
+#: pushdownoptions.php:389
+msgid "Daily Stats"
+msgstr "günlük İstatistikler"
+
+#: pushdownoptions.php:522 pushdownoptions.php:590 pushdownoptions.php:875
+msgid "Melodic Media Push Down Banner"
+msgstr "Melodic Media Push Down Banner"
+
+#: pushdownoptions.php:524
+msgid "My Push Down Banners Daily Stats"
+msgstr "Afiş Günlük İstatistikleri Push Down listem"
+
+#: pushdownoptions.php:531 pushdownoptions.php:599
+msgid "Push Down Banner"
+msgstr "Banner Aşağı itin"
+
+#: pushdownoptions.php:531 pushdownoptions.php:599 pushdownoptions.php:666
+msgid "Banner Name"
+msgstr "Banner Ad"
+
+#: pushdownoptions.php:531
+msgid "Imp. today"
+msgstr "gösterimler bugün"
+
+#: pushdownoptions.php:531
+msgid "Opens today"
+msgstr "bugün açar"
+
+#: pushdownoptions.php:531
+msgid "Clicks today"
+msgstr "Tıklama bugün"
+
+#: pushdownoptions.php:536 pushdownoptions.php:609
+msgid "You have currently no push down banners."
+msgstr "Şu anda hiçbir itme aşağı afiş var."
+
+#: pushdownoptions.php:541 pushdownoptions.php:614
+msgid "Free version includes"
+msgstr "Ücretsiz sürümünü içerir"
+
+#: pushdownoptions.php:542 pushdownoptions.php:615
+msgid "1. Save and view daily stats for 1 banner."
+msgstr "1. Kaydet ve 1 banner günlük istatistikleri görüntüleyebilir ."
+
+#: pushdownoptions.php:543 pushdownoptions.php:616
+msgid "2. Only Image banner and only auto close and auto open."
+msgstr "2. sadece görüntü afiş ve yalnızca otomatik kapatın ve auto açık."
+
+#: pushdownoptions.php:545 pushdownoptions.php:618
+msgid "Full version includes"
+msgstr "Tam sürüm içerir"
+
+#: pushdownoptions.php:546 pushdownoptions.php:619
+msgid "1. Save and view daily, weekly and monthly stats for unlimited banners."
+msgstr ""
+"1. Kaydet ve günlük görünümü, sınırsız afiş için haftalık ve aylık "
+"istatistikler."
+
+#: pushdownoptions.php:547 pushdownoptions.php:620
+msgid "2. Make Image, flash and HTML unlimited banners."
+msgstr "2. yapmak görüntü, flash ve HTML sınırsız afiş."
+
+#: pushdownoptions.php:592
+msgid "My Push Down Banners"
+msgstr "Afiş Günlük İstatistikleri Push Down listem"
+
+#: pushdownoptions.php:599
+msgid "Actions"
+msgstr "Eylemler"
+
+#: pushdownoptions.php:605
+msgid "PREVIEW"
+msgstr "ÖNİZLEME"
+
+#: pushdownoptions.php:605
+msgid "EDIT"
+msgstr "DÜZENLEME"
+
+#: pushdownoptions.php:632
+msgid "Uploading"
+msgstr "Yükleme"
+
+#: pushdownoptions.php:633
+msgid "Only jpeg, png and gif images could be uploaded"
+msgstr "Sadece jpeg , png ve gif görüntüleri yükledi olabilir"
+
+#: pushdownoptions.php:634
+msgid "Size exceeds 50kb limit"
+msgstr "Boyut 50kb sınırı aşıyor"
+
+#: pushdownoptions.php:635
+msgid "Uploaded"
+msgstr "Uploaded"
+
+#: pushdownoptions.php:636
+msgid "Size exceeds 250kb limit"
+msgstr "Boyut 250KB sınırı aşıyor"
+
+#: pushdownoptions.php:637
+msgid "Only swf file could be uploaded"
+msgstr "Sadece swf dosya yükledi olabilir"
+
+#: pushdownoptions.php:638
+msgid "Please make sure main banner image is uploaded"
+msgstr "Emin ana afiş resim yüklenir olun"
+
+#: pushdownoptions.php:639
+msgid "Banner with this name already exists.Please Change the name"
+msgstr "Bu ada sahip penceresi zaten adını değiştirme exists.Please"
+
+#: pushdownoptions.php:640
+msgid "Fill this field"
+msgstr "Bu alanı doldurmak"
+
+#: pushdownoptions.php:641
+msgid "Please enter valid email address"
+msgstr "Lütfen Geçerli bir E-posta Adresi Girin"
+
+#: pushdownoptions.php:642
+msgid "Enter only number"
+msgstr "Bir Sayı Girin"
+
+#: pushdownoptions.php:643
+msgid "Previous Image deleted. Make sure to save banner"
+msgstr "Önceki Resim silindi . afiş kaydetmek için emin olun"
+
+#: pushdownoptions.php:644
+msgid "Previous flash deleted. Make sure to save banner"
+msgstr "Önceki flaş silindi . afiş kaydetmek için emin olun"
+
+#: pushdownoptions.php:645
+msgid "Correct Errors"
+msgstr "doğru Hatalar"
+
+#: pushdownoptions.php:661
+msgid "Edit Push Down Banner"
+msgstr "Banner Aşağı itin"
+
+#: pushdownoptions.php:663
+msgid "New Push Down Banner"
+msgstr "Banner Aşağı itin"
+
+#: pushdownoptions.php:676
+msgid "Show the banner only once per day?"
+msgstr "günde yalnızca bir kez afiş göster ?"
+
+#: pushdownoptions.php:677 pushdownoptions.php:740 pushdownoptions.php:747
+#: pushdownoptions.php:779 pushdownoptions.php:786 pushdownoptions.php:807
+msgid "Yes"
+msgstr "Evet"
+
+#: pushdownoptions.php:677 pushdownoptions.php:742 pushdownoptions.php:748
+#: pushdownoptions.php:780 pushdownoptions.php:786 pushdownoptions.php:807
+msgid "No"
+msgstr "hayır"
+
+#: pushdownoptions.php:703
+msgid "Type of banner"
+msgstr "Yeni Aşağı Açılan Banner ekle"
+
+#: pushdownoptions.php:704
+msgid "Image Banner"
+msgstr "Banner Ad"
+
+#: pushdownoptions.php:704
+msgid "(For making flash and html banners buy the full version)"
+msgstr "(Yapma flash ve html afiş için tam sürümünü satın)"
+
+#: pushdownoptions.php:713
+msgid ""
+"There are 4 different kinds of image Push Down Banners,(For more options buy "
+"the full version)"
+msgstr ""
+"(Daha fazla seçenek tam sürümünü satın almak için) görüntü itmek aşağı afiş, "
+"4 farklı türü vardır"
+
+#: pushdownoptions.php:725
+msgid "Option"
+msgstr "Seçenek"
+
+#: pushdownoptions.php:725
+msgid "1 Image (Main Banner ) + Auto-Open &amp; Close"
+msgstr "1 Görüntü (Ana Banner) + Otomatik - Açık & amp; Kapat"
+
+#: pushdownoptions.php:731
+msgid "Main Banner"
+msgstr "Banner Ad"
+
+#: pushdownoptions.php:735
+msgid "Change Image (jpg, gif, png, max file size 250kb)"
+msgstr "Değişim Resim (jpg , gif, png, maksimum dosya boyutu 250KB )"
+
+#: pushdownoptions.php:737
+msgid "Upload your Image (jpg, gif, png, max file size 250kb)"
+msgstr "senin Görüntü Yükle ( jpg, gif , png , maksimum dosya boyutu 250KB )"
+
+#: pushdownoptions.php:738
+msgid "Please set the URL you want it to link to http://"
+msgstr "hayır , URL’yi ayarlamak Lütfen Eğer http bağlamak istiyorum: //"
+
+#: pushdownoptions.php:739
+msgid "Open link in new window?"
+msgstr "Yeni Popover penceresi Ekle"
+
+#: pushdownoptions.php:747
+msgid "Make the banner Responsive?"
+msgstr "afiş Duyarlı olun ?"
+
+#: pushdownoptions.php:751
+msgid "Set a background Image"
+msgstr "Bir arka plan Görüntü ayarlama"
+
+#: pushdownoptions.php:754
+msgid "Change Image (jpg, gif, png, max file size 50kb)"
+msgstr "Değişim Resim (jpg , gif, png, maksimum dosya boyutu 50kb )"
+
+#: pushdownoptions.php:759
+msgid "Upload your Image (jpg, gif, png, max file size 50kb)"
+msgstr "senin Görüntü Yükle ( jpg, gif , png , maksimum dosya boyutu 50kb )"
+
+#: pushdownoptions.php:762
+msgid "Set a background Color"
+msgstr "Bir arka plan rengi ayarlama"
+
+#: pushdownoptions.php:763
+msgid "Background Color"
+msgstr "bindirme rengi"
+
+#: pushdownoptions.php:765
+msgid ""
+"Speed/Time which the banner will open or close. (For setting your own speed "
+"and time buy the full version)"
+msgstr ""
+"afiş açmak veya kapatmak olacak Hız / Zaman . (Kendi hız ve zaman ayarı için "
+"tam sürümünü satın )"
+
+#: pushdownoptions.php:766
+msgid "Speed"
+msgstr "hız"
+
+#: pushdownoptions.php:767
+msgid "Time"
+msgstr "Zaman"
+
+#: pushdownoptions.php:779
+msgid "Will your banner auto-open?"
+msgstr "banner otomatik açılacaktır ?"
+
+#: pushdownoptions.php:782
+msgid "Auto-open the banner after"
+msgstr "sonra afiş Otomatik açmak"
+
+#: pushdownoptions.php:782
+msgid "seconds  - Set 0 for right away"
+msgstr "saniye - hemen 0 olarak ayarlayın"
+
+#: pushdownoptions.php:785
+msgid "Will your banner auto-close?"
+msgstr "banner otomatik kapanacak ?"
+
+#: pushdownoptions.php:792
+msgid "Auto-close the banner after"
+msgstr "sonra afiş Otomatik kapatma"
+
+#: pushdownoptions.php:792
+msgid "seconds  - Default is set to 10"
+msgstr "saniye - Standart 10 ayarlanır"
+
+#: pushdownoptions.php:801
+msgid "Show the banner on?"
+msgstr "banner gösterilsin mi?"
+
+#: pushdownoptions.php:801
+msgid "All Pages"
+msgstr "Tüm sayfalar"
+
+#: pushdownoptions.php:801
+msgid "HomePage Only"
+msgstr "Ana Sadece"
+
+#: pushdownoptions.php:801
+msgid "Specific Pages Only"
+msgstr "Belirli Sayfalar Sadece"
+
+#: pushdownoptions.php:804
+msgid "Page Titles"
+msgstr "Sayfa Başlıkları"
+
+#: pushdownoptions.php:804
+msgid ""
+"Titles of the page separated by commas on which to show the banner(Case "
+"Sensitive).Type 'Home' as title to show on homepage"
+msgstr ""
+"Ana sayfada göstermek için başlık olarak afiş ( Harfe Duyarlı ) .Type ' Ana "
+"' göstermek için hangi virgülle ayırarak sayfanın Başlıkları"
+
+#: pushdownoptions.php:806
+msgid "Note Only one Push down Banner can be shown on a single page"
+msgstr "Banner tek bir sayfada gösterilebilir aşağı Sadece bir itin unutmayın."
+
+#: pushdownoptions.php:807
+msgid "Placement: First Item on Page"
+msgstr "Yerleşim : Sayfada İlk Öğe"
+
+#: pushdownoptions.php:810
+msgid "Placement: Div ID"
+msgstr "Yerleşim : Div Kimliği"
+
+#: pushdownoptions.php:810
+msgid ""
+"Id of div or any other html element  in which pushdown banner should appear"
+msgstr ""
+"Altbasımlı afiş görünmelidir hangi div veya diğer herhangi bir html elemanın "
+"id"
+
+#: pushdownoptions.php:810
+msgid ""
+"Note If placing into a Post, manually add a new DIV layer in your post like "
+"this"
+msgstr ""
+"Not Mesajın içine yerleştirerek , el bu gibi yazı yeni bir DIV katman eklemek"
+
+#: pushdownoptions.php:810
+msgid "Then add \"pushdownpost\" in the box above"
+msgstr "Sonra yukarıdaki kutuya “ popoverdiv “ eklemek"
+
+#: pushdownoptions.php:810
+msgid "Placement of Push down Banner?"
+msgstr "Melodic Media Push Down Banner"
+
+#: pushdownoptions.php:810
+msgid "Start of Div"
+msgstr "Div Başlangıcı"
+
+#: pushdownoptions.php:810
+msgid "End of Div"
+msgstr "Div Sonu"
+
+#: pushdownoptions.php:812
+msgid "Add CSS above your Push Down Banner"
+msgstr "senin Bas Aşağı Banner yukarıdaki CSS ekle"
+
+#: pushdownoptions.php:814
+msgid "Add CSS below your Push Down Banner"
+msgstr "senin Bas Aşağı Banner altında CSS ekle"
+
+#: pushdownoptions.php:899
+msgid "Preview Banner"
+msgstr "ÖNİZLEME"
+
+#: pushdownoptions.php:899
+msgid "Save Banner"
+msgstr "Kaydet Penceresi"
+
+#: pushdownbanner.php:4
+msgid "Push Down Banners (Free Version)"
+msgstr "Slayt Afişler ( Free Version)"
+
+#: pushdownbanner.php:6
+msgid ""
+"Create professional push down banners for any page on your Wordpress site."
+msgstr ""
+"Wordpress sitede herhangi bir sayfa için profesyonel itme aşağı afiş "
+"oluşturun."
+
+#~ msgid "Weekly Stats"
+#~ msgstr "Haftalık İstatistikler"
+
+#~ msgid "Monthly Stats"
+#~ msgstr "Aylık İstatistikler"
+
+#~ msgid "Month"
+#~ msgstr "Ay"
+
+#~ msgid "Date"
+#~ msgstr "tarih"
+
+#~ msgid "Week"
+#~ msgstr "Hafta"
+
+#~ msgid "Clicks"
+#~ msgstr "Tıklanma"
+
+#~ msgid "Impressions"
+#~ msgstr "gösterimler"
+
+#~ msgid "Opens"
+#~ msgstr "açar"
+
+#~ msgid "Click Through Rate"
+#~ msgstr "Tıklama Oranı"
+
+#~ msgid "Monthly"
+#~ msgstr "Aylık"
+
+#~ msgid "Daily"
+#~ msgstr "Günlük"
+
+#~ msgid "Weekly"
+#~ msgstr "Haftalık"
+
+#~ msgid "Stats History"
+#~ msgstr "İstatistikler Tarih"
+
+#~ msgid "No history found."
+#~ msgstr "Hiçbir tarih bulunamadı."
+
+#~ msgid "History"
+#~ msgstr "tarih"
+
+#~ msgid "HISTORY"
+#~ msgstr "tarih"
+
+#~ msgid "My Push Down Banners Weekly Stats"
+#~ msgstr "Afiş Haftalık İstatistikleri Push Down listem"
+
+#~ msgid "Imp. this week"
+#~ msgstr "gösterimler bugün"
+
+#~ msgid "Opens this week"
+#~ msgstr "bugün açar"
+
+#~ msgid "Clicks this week"
+#~ msgstr "Tıklama bugün"
+
+#~ msgid "My Push Down Banners Monthly Stats"
+#~ msgstr "Afiş Günlük İstatistikleri Push Down listem"
+
+#~ msgid "Imp. this month"
+#~ msgstr "Gösterimler bu ay"
+
+#~ msgid "Opens this month"
+#~ msgstr "Bu ay açar"
+
+#~ msgid "Clicks this month"
+#~ msgstr "Bu ay Clicks"
+
+#~ msgid "Please make sure first banner, main banner images are uploaded"
+#~ msgstr "Emin Birinci afiş olun , ana afiş görüntüleri yüklenir"
+
+#~ msgid "Please make sure first and main flash banner files are uploaded"
+#~ msgstr "Emin Birinci ve ana flash banner dosyaları yüklenir olun"
+
+#~ msgid "Please make sure close button image is uploaded"
+#~ msgstr "Emin kapatma düğmesi resim yüklenir olun"
+
+#~ msgid ""
+#~ "Please make sure first banner, main banner and close button images are "
+#~ "uploaded"
+#~ msgstr "Yüklenen emin ilk afiş , ana afiş ve kapat düğmesi görüntüleri olun"
+
+#~ msgid "Please make sure close button and main banner images are uploaded"
+#~ msgstr "Emin kapat düğmesi ve ana afiş görüntüleri yüklenir olun"
+
+#~ msgid ""
+#~ "Please make sure first flash banner, main flash banner , first backup and "
+#~ "main backup images are uploaded"
+#~ msgstr ""
+#~ "Yüklenen emin ilk flash banner , ana flash banner , ilk yedekleme ve ana "
+#~ "yedek görüntüleri olun"
+
+#~ msgid ""
+#~ "Please make sure main flash banner and main backup images are uploaded"
+#~ msgstr "Yüklenen emin ana flash banner ve ana yedek görüntüleri olun"
+
+#~ msgid "Please make sure main flash banner file is uploaded"
+#~ msgstr "Emin ana flash banner dosyası yüklenir olun"
+
+#~ msgid "Type of banner:"
+#~ msgstr "Yeni Aşağı Açılan Banner ekle"
+
+#~ msgid "Flash Banner"
+#~ msgstr "Yeni Aşağı Açılan Banner ekle"
+
+#~ msgid "HTML Banner"
+#~ msgstr "HTML Banner"
+
+#~ msgid ""
+#~ "There are 4 different kinds of HTML Push Down Banners, select the style "
+#~ "that you'll like to create"
+#~ msgstr ""
+#~ "HTML 4 çeşit oluşturmak gibi olacak stili seçin , Afişler Push Down vardır"
+
+#~ msgid "Option 1"
+#~ msgstr "seçenek 1"
+
+#~ msgid "2 html banners (Open Banner &amp; Main Banner ) + Close button"
+#~ msgstr "2 html afişler ( Açık Banner ve amp; Ana Banner) + Kapat düğmesi"
+
+#~ msgid "Option 2"
+#~ msgstr "seçenek 2"
+
+#~ msgid "2 html banners (Open Banner  &amp; Main Banner ) + Auto-Close"
+#~ msgstr "2 html afişler ( Açık Banner ve amp; Ana Banner) Otomatik Kapat +"
+
+#~ msgid "Option 3"
+#~ msgstr "seçenek 3"
+
+#~ msgid "1 html banner (Main Banner ) + Auto-Opens + Close Button"
+#~ msgstr "1 html afiş (Ana Banner) + Otomatik - açar + Kapat Düğmesi"
+
+#~ msgid "Option 4"
+#~ msgstr "seçenek 4"
+
+#~ msgid "1 html banner (Main Banner ) + Auto-Open &amp; Close"
+#~ msgstr "1 html afiş (Ana Banner) + Otomatik - Açık & amp; Kapat"
+
+#~ msgid "First/Open HTML Banner"
+#~ msgstr "HTML Banner"
+
+#~ msgid ""
+#~ "In your html code include this code in onclick event or href\n"
+#~ "  to open main html banner"
+#~ msgstr ""
+#~ "html kodu onclick olay veya href \\ n Bu kodu dahil\n"
+#~ "  Ana html afiş açmak için"
+
+#~ msgid "OPEN BUTTON CODE"
+#~ msgstr "kapatma düğmesi ekstra kod eklemek ?"
+
+#~ msgid "CLICK TO OPEN"
+#~ msgstr "Tıklama Oranı"
+
+#~ msgid "OR"
+#~ msgstr "VEYA"
+
+#~ msgid "ROLLOVER TO OPEN"
+#~ msgstr "ROLLOVER AÇMA"
+
+#~ msgid "Enter HTML Code for your First Banner"
+#~ msgstr "sizin ilk Banner HTML Kodunu Girin"
+
+#~ msgid "Enter the width of first html banner"
+#~ msgstr "İlk html bayrağı genişliğini girin"
+
+#~ msgid "Enter the heigth of first html banner"
+#~ msgstr "İlk html banner Yükseklik girin"
+
+#~ msgid "When the HTML banner opens the first banner will disappear?"
+#~ msgstr "Ne zaman HTML afiş ilk afiş kaybolur açılır ?"
+
+#~ msgid ""
+#~ "In your html code add toggle(); function to  onclick event or href\n"
+#~ "  to open main html banner"
+#~ msgstr ""
+#~ "html kodu ) ( toggle ekleyin; onclick olay veya href \\ n fonksiyonu\n"
+#~ "  Ana html afiş açmak için"
+
+#~ msgid "Main HTML Banner"
+#~ msgstr "HTML Banner"
+
+#~ msgid ""
+#~ "If you want to track clicks on your main html banner\n"
+#~ "  add this code to onclick event of your ad link"
+#~ msgstr ""
+#~ "Eğer ana html afiş \\ n tıklamaları izlemek istiyorsanız\n"
+#~ "  Reklam bağlantı onclick olay bu kodu ekleyin"
+
+#~ msgid "Main Banner Type"
+#~ msgstr "Yeni Aşağı Açılan Banner ekle"
+
+#~ msgid "Html Code"
+#~ msgstr "html Kod"
+
+#~ msgid "External file"
+#~ msgstr "dış dosya"
+
+#~ msgid "Enter HTML Code for your Main Banner"
+#~ msgstr "Ana Banner HTML Kodunu Girin"
+
+#~ msgid "Enter full Link for your Main Banner File"
+#~ msgstr "Ana Banner Dosyası için tam Linki girin"
+
+#~ msgid ""
+#~ "The file could be .html or .php e.g 'http://www.someserver.com/somefile."
+#~ "php'"
+#~ msgstr ""
+#~ "Dosya .html veya .php örneğin ' http://www.someserver.com/somefile.php ' "
+#~ "olabilir"
+
+#~ msgid "Enter the width of main html banner"
+#~ msgstr "Ana html bayrağı genişliğini girin"
+
+#~ msgid "Enter the heigth of main html banner"
+#~ msgstr "Ana html banner Yükseklik girin"
+
+#~ msgid "Do you want to add a Close Button?"
+#~ msgstr "Eğer bir Kapat Düğmesi eklemek istiyor musunuz?"
+
+#~ msgid ""
+#~ "In your html code this code to  onclick event or href\n"
+#~ "  to close html banner"
+#~ msgstr ""
+#~ "onclick olay veya href \\ n html kodu bu kod\n"
+#~ "  html afiş kapatmak için"
+
+#~ msgid "CLOSE BUTTON CODE"
+#~ msgstr "kapatma düğmesi ekstra kod eklemek ?"
+
+#~ msgid "CLICK TO CLOSE"
+#~ msgstr "Tıklama Oranı"
+
+#~ msgid "ROLLOVER TO CLOSE"
+#~ msgstr "Bu pencereyi kapatın"
+
+#~ msgid "ROLLOFF TO CLOSE"
+#~ msgstr "Bu pencereyi kapatın"
+
+#~ msgid ""
+#~ "If you are using option first html banner disapper when main banner opens "
+#~ "then add toggle(0); to onlclick or href to close html banner"
+#~ msgstr ""
+#~ "Eğer seçenek ilk html afiş disapper kullanıyorsanız ana afiş daha sonra "
+#~ "toggle ekleyin açılır zaman (0) ; onlclick veya href html afiş kapatmak "
+#~ "için"
+
+#~ msgid "Close Banner"
+#~ msgstr "Kapat Düğmesi"
+
+#~ msgid "Use our generic close button"
+#~ msgstr "Bizim genel yakın düğmesini kullanın"
+
+#~ msgid "Or, Upload your own"
+#~ msgstr "İşte Altbilgi !"
+
+#~ msgid "Select 1 close image"
+#~ msgstr "1 yakın görüntü seçin"
+
+#~ msgid "Add extra code to the close button?"
+#~ msgstr "kapatma düğmesi ekstra kod eklemek ?"
+
+#~ msgid "(the code to execute when close button is clicked)"
+#~ msgstr "(Kod kapatma düğmesi tıklandığında yürütmek için )"
+
+#~ msgid "Enter the code to add to close button"
+#~ msgstr "düğmesine kapatmak eklemek için kodu girin"
+
+#~ msgid "Will you have an open button?"
+#~ msgstr "Şu anda hiçbir itme aşağı afiş var."
+
+#~ msgid ""
+#~ "Create your small first banner. Add a button that says Click here to "
+#~ "expand.\n"
+#~ "  On that button add this Actionscript"
+#~ msgstr ""
+#~ "küçük ilk afiş oluşturun. genişletmek için buraya tıklayın yazan bir "
+#~ "düğme ekleyin . \\ n\n"
+#~ "  bu düğme bu Actionscript ekleyin"
+
+#~ msgid "To expand banner on rollover add this Actionscript"
+#~ msgstr "rollover banner genişletmek için bu Actionscript ekleyin"
+
+#~ msgid "Change First/Open banner flash file(swf)"
+#~ msgstr "İlk / Açık afiş flash dosyasını ( swf) değiştirin"
+
+#~ msgid "Upload your First/Open banner flash file(swf)"
+#~ msgstr "senin ilk / Açık afiş flash dosyasını ( swf) yükleyin"
+
+#~ msgid "When the Main Flash banner opens the first banner will disappear?"
+#~ msgstr "Ne zaman HTML afiş ilk afiş kaybolur açılır ?"
+
+#~ msgid "In your flash code add toggle(); function to   Actionscript"
+#~ msgstr "flash kodu ) ( toggle ekleyin; Actionscript işlevi"
+
+#~ msgid ""
+#~ "And if you have your own flash close button \n"
+#~ " On that button add this Actionscript"
+#~ msgstr ""
+#~ "Ve kendi flaş kapatma düğmesi \\ n varsa\n"
+#~ " bu düğme bu Actionscript ekleyin"
+
+#~ msgid "To close banner on rollover add this Actionscript"
+#~ msgstr "rollover banner kapatmak için bu Actionscript ekleyin"
+
+#~ msgid ""
+#~ "If you want to track clicks on flash banner.\n"
+#~ "  Add this Actionscript on Ad link"
+#~ msgstr ""
+#~ "Eğer flash banner tıklamaları izlemek istiyorsanız . \\ n\n"
+#~ "  Reklam bağlantısını bu Actionscript ekle"
+
+#~ msgid "Change main banner flash file(swf)"
+#~ msgstr "Emin ana flash banner dosyası yüklenir olun"
+
+#~ msgid "Upload your main banner flash file(swf)"
+#~ msgstr "ana afiş flash dosyasını ( swf) yükleyin"
+
+#~ msgid "Set the height of your main banner in the first/opening state"
+#~ msgstr "İlk / açma durumunda ana afiş yüksekliğini ayarlayın"
+
+#~ msgid "Will you have a close button in your flash file?"
+#~ msgstr "Eğer flash dosyasında kapatma düğmesi var mı?"
+
+#~ msgid ""
+#~ "Add a visible close button in your main banner flash file.\n"
+#~ "  On that button add this Actionscript"
+#~ msgstr ""
+#~ "ana afiş flaş dosyasında görünür bir kapatma düğmesi ekleyin . \\ n\n"
+#~ "  bu düğme bu Actionscript ekleyin"
+
+#~ msgid "Will you have a regular close button under your flash banner?"
+#~ msgstr "Eğer flash bayrağı altında düzenli bir kapatma düğmesi var mı?"
+
+#~ msgid "Do you want to have backup image for your flash file?"
+#~ msgstr "Eğer flash dosyası için yedek imaja sahip olmak istiyorsunuz?"
+
+#~ msgid ""
+#~ "Change First/Open banner backup image (jpg, gif, png, max file size 50kb)"
+#~ msgstr ""
+#~ "İlk / Açık afiş yedek görüntüyü değiştirmek ( jpg, gif , png , maksimum "
+#~ "dosya boyutu 50kb )"
+
+#~ msgid ""
+#~ "Upload your First/Open banner backup image (jpg, gif, png, max file size "
+#~ "50kb)"
+#~ msgstr ""
+#~ "senin ilk / Açık afiş yedek imajı yükleyin ( jpg, gif , png , maksimum "
+#~ "dosya boyutu 50kb )"
+
+#~ msgid "Change Main banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Ana afiş yedek görüntüyü değiştirmek ( jpg, gif , png , maksimum dosya "
+#~ "boyutu 250KB )"
+
+#~ msgid ""
+#~ "Upload your Main banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Ana afiş yedek imajı yükleyin ( jpg, gif , png , maksimum dosya boyutu "
+#~ "250KB )"
+
+#~ msgid ""
+#~ "There are 4 different kinds of image Push Down Banners, select the style "
+#~ "that you'll like to create"
+#~ msgstr ""
+#~ "Görüntünün 4 çeşit oluşturmak gibi olacak stili seçin , Afişler Push Down "
+#~ "vardır"
+
+#~ msgid "2 Images (Open Banner &amp; Main Banner ) + Close button"
+#~ msgstr "2 Görüntüler ( Açık Banner ve amp; Ana Banner) + Kapat düğmesi"
+
+#~ msgid "2 Images (Open Banner  &amp; Main Banner ) + Auto-Close"
+#~ msgstr "2 Görüntüler ( Açık Banner ve amp; Ana Banner) Otomatik Kapat "
+
+#~ msgid "1 Image (Main Banner ) + Auto-Opens + Close Button"
+#~ msgstr "1 Görüntü (Ana Banner) + Otomatik - açar + Kapat Düğmesi"
+
+#~ msgid "First/Open Banner"
+#~ msgstr "Banner Ad"
+
+#~ msgid "When you click this image, will this image dissappear?"
+#~ msgstr "Bu görüntüyü tıkladığınızda , bu görüntü dissappear olacak ?"
+
+#~ msgid "When you click this image, it will open the Push Down Banner?"
+#~ msgstr "Bu görüntüyü tıkladığınızda , bu itin Aşağı Banner açacak ?"
+
+#~ msgid "If no, Please set the URL you want it to link to http://"
+#~ msgstr "hayır , URL'yi ayarlamak Lütfen Eğer http bağlamak istiyorum: //"
+
+#~ msgid "Set the Speed/Time which the banner will open or close"
+#~ msgstr "afiş açmak veya kapatmak olacak Hız / Saat Set"
+
+#~ msgid "Note Only one Push down Banner can be shown on a single page."
+#~ msgstr ""
+#~ "Banner tek bir sayfada gösterilebilir aşağı Sadece bir itin unutmayın."
+
+#~ msgid ""
+#~ "Id of div or any other html element  in which pushdown banner should "
+#~ "appear "
+#~ msgstr ""
+#~ "Altbasımlı afiş görünmelidir hangi div veya diğer herhangi bir html "
+#~ "elemanın id"

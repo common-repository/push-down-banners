@@ -1,0 +1,1133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-05 13:37+0500\n"
+"PO-Revision-Date: 2016-02-05 13:46+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: pushdownbanner.php:32
+msgid "Buy Full Version"
+msgstr "Acheter la version complète"
+
+#: pushdownoptions.php:387
+msgid "Push Down Banners"
+msgstr "Pousser vers le bas Bannières"
+
+#: pushdownoptions.php:388
+msgid "Add New Pushdown Banner"
+msgstr "Ajouter Nouvelle pousser vers le bas bannière "
+
+#: pushdownoptions.php:389
+msgid "Daily Stats"
+msgstr "Stats quotidienne"
+
+#: pushdownoptions.php:522 pushdownoptions.php:590 pushdownoptions.php:875
+msgid "Melodic Media Push Down Banner"
+msgstr "Mélodique Media Pousser vers le bas bannière"
+
+#: pushdownoptions.php:524
+msgid "My Push Down Banners Daily Stats"
+msgstr "Mon poussant vers le bas de bannières statistiques quotidiennes"
+
+#: pushdownoptions.php:531 pushdownoptions.php:599
+msgid "Push Down Banner"
+msgstr "Pousser vers le bas  bannière"
+
+#: pushdownoptions.php:531 pushdownoptions.php:599 pushdownoptions.php:666
+msgid "Banner Name"
+msgstr "Nom de la bannière"
+
+#: pushdownoptions.php:531
+msgid "Imp. today"
+msgstr "IMP. aujourd'hui"
+
+#: pushdownoptions.php:531
+msgid "Opens today"
+msgstr "Ouvre aujourd'hui"
+
+#: pushdownoptions.php:531
+msgid "Clicks today"
+msgstr "Clics aujourd'hui"
+
+#: pushdownoptions.php:536 pushdownoptions.php:609
+msgid "You have currently no push down banners."
+msgstr "Vous avez pour le moment aucune pousser vers le bas bannières ."
+
+#: pushdownoptions.php:541 pushdownoptions.php:614
+msgid "Free version includes"
+msgstr "Version gratuite comprend"
+
+#: pushdownoptions.php:542 pushdownoptions.php:615
+msgid "1. Save and view daily stats for 1 banner."
+msgstr ""
+"1. Enregistrer et afficher les statistiques quotidiennes pour une bannière."
+
+#: pushdownoptions.php:543 pushdownoptions.php:616
+msgid "2. Only Image banner and only auto close and auto open."
+msgstr "2. Seulement bannière image et seulement Auto-fermer et Auto-ouverte ."
+
+#: pushdownoptions.php:545 pushdownoptions.php:618
+msgid "Full version includes"
+msgstr "La version complète inclut"
+
+#: pushdownoptions.php:546 pushdownoptions.php:619
+msgid "1. Save and view daily, weekly and monthly stats for unlimited banners."
+msgstr ""
+"1. Enregistrez et vue quotidienne , les statistiques hebdomadaires et "
+"mensuels pour les bannières illimitées ."
+
+#: pushdownoptions.php:547 pushdownoptions.php:620
+msgid "2. Make Image, flash and HTML unlimited banners."
+msgstr "2. Assurez- image , flash et HTML bannières illimitées ."
+
+#: pushdownoptions.php:592
+msgid "My Push Down Banners"
+msgstr "Mon Pousser vers le bas Bannières"
+
+#: pushdownoptions.php:599
+msgid "Actions"
+msgstr "actes"
+
+#: pushdownoptions.php:605
+msgid "PREVIEW"
+msgstr "APERÇU"
+
+#: pushdownoptions.php:605
+msgid "EDIT"
+msgstr "Modifier"
+
+#: pushdownoptions.php:632
+msgid "Uploading"
+msgstr "téléchargement"
+
+#: pushdownoptions.php:633
+msgid "Only jpeg, png and gif images could be uploaded"
+msgstr "Seuls les formats JPEG , PNG et GIF images peuvent être téléchargées"
+
+#: pushdownoptions.php:634
+msgid "Size exceeds 50kb limit"
+msgstr "Taille dépasse la limite de 50kb"
+
+#: pushdownoptions.php:635
+msgid "Uploaded"
+msgstr "Téléchargé"
+
+#: pushdownoptions.php:636
+msgid "Size exceeds 250kb limit"
+msgstr "Taille dépasse la limite de 250kb"
+
+#: pushdownoptions.php:637
+msgid "Only swf file could be uploaded"
+msgstr "Seuls les fichiers swf pu être téléchargé"
+
+#: pushdownoptions.php:638
+msgid "Please make sure main banner image is uploaded"
+msgstr ""
+"S'il vous plaît assurez-vous que l'image principale bannière est téléchargé"
+
+#: pushdownoptions.php:639
+msgid "Banner with this name already exists.Please Change the name"
+msgstr "Bannière avec ce nom déjà exists.Please Changez le nom"
+
+#: pushdownoptions.php:640
+msgid "Fill this field"
+msgstr "Remplissez ce champ"
+
+#: pushdownoptions.php:641
+msgid "Please enter valid email address"
+msgstr "S'il vous plaît entrez l'adresse e-mail valide"
+
+#: pushdownoptions.php:642
+msgid "Enter only number"
+msgstr "Entrez seul numéro"
+
+#: pushdownoptions.php:643
+msgid "Previous Image deleted. Make sure to save banner"
+msgstr "Image précédente supprimé . Veillez à enregistrer bannière"
+
+#: pushdownoptions.php:644
+msgid "Previous flash deleted. Make sure to save banner"
+msgstr "Flash précédente supprimé . Veillez à enregistrer bannière"
+
+#: pushdownoptions.php:645
+msgid "Correct Errors"
+msgstr "Correction des erreurs"
+
+#: pushdownoptions.php:661
+msgid "Edit Push Down Banner"
+msgstr "Modifier Pousser vers le bas Bannière"
+
+#: pushdownoptions.php:663
+msgid "New Push Down Banner"
+msgstr "Nouvelle Poussée vers le bas bannière"
+
+#: pushdownoptions.php:676
+msgid "Show the banner only once per day?"
+msgstr "Afficher la bannière qu'une seule fois par jour ?"
+
+#: pushdownoptions.php:677 pushdownoptions.php:740 pushdownoptions.php:747
+#: pushdownoptions.php:779 pushdownoptions.php:786 pushdownoptions.php:807
+msgid "Yes"
+msgstr "Oui"
+
+#: pushdownoptions.php:677 pushdownoptions.php:742 pushdownoptions.php:748
+#: pushdownoptions.php:780 pushdownoptions.php:786 pushdownoptions.php:807
+msgid "No"
+msgstr "Non"
+
+#: pushdownoptions.php:703
+msgid "Type of banner"
+msgstr "Type de bannière "
+
+#: pushdownoptions.php:704
+msgid "Image Banner"
+msgstr "Bannière de l'image"
+
+#: pushdownoptions.php:704
+msgid "(For making flash and html banners buy the full version)"
+msgstr "(Pour faire des bannières Flash et HTML acheter la version complète)"
+
+#: pushdownoptions.php:713
+msgid ""
+"There are 4 different kinds of image Push Down Banners,(For more options buy "
+"the full version)"
+msgstr ""
+"Il y a 4 types d'images différents Poussée vers le bas bannières (pour plus "
+"d' options pour acheter la version complète )"
+
+#: pushdownoptions.php:725
+msgid "Option"
+msgstr "las option"
+
+#: pushdownoptions.php:725
+msgid "1 Image (Main Banner ) + Auto-Open &amp; Close"
+msgstr "1 Image (Principal Bannière ) + Auto -Ouvre &amp; fermer"
+
+#: pushdownoptions.php:731
+msgid "Main Banner"
+msgstr "Principal bannière "
+
+#: pushdownoptions.php:735
+msgid "Change Image (jpg, gif, png, max file size 250kb)"
+msgstr "Changer l'image ( jpg , gif, png , Taille max 250kb )"
+
+#: pushdownoptions.php:737
+msgid "Upload your Image (jpg, gif, png, max file size 250kb)"
+msgstr "Téléchargez votre image ( jpg , gif, png , Taille max 250kb )"
+
+#: pushdownoptions.php:738
+msgid "Please set the URL you want it to link to http://"
+msgstr ""
+"S'il vous plaît mettre l'URL que vous voulez faire un lien vers http : //"
+
+#: pushdownoptions.php:739
+msgid "Open link in new window?"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre?"
+
+#: pushdownoptions.php:747
+msgid "Make the banner Responsive?"
+msgstr "Faire la bannière Responsive ?"
+
+#: pushdownoptions.php:751
+msgid "Set a background Image"
+msgstr "Définir une image de fond"
+
+#: pushdownoptions.php:754
+msgid "Change Image (jpg, gif, png, max file size 50kb)"
+msgstr "Changer l'image ( jpg , gif, png , Taille max 50kb )"
+
+#: pushdownoptions.php:759
+msgid "Upload your Image (jpg, gif, png, max file size 50kb)"
+msgstr "Téléchargez votre image ( jpg , gif, png , Taille max 50kb )"
+
+#: pushdownoptions.php:762
+msgid "Set a background Color"
+msgstr "Définir un fond couleur"
+
+#: pushdownoptions.php:763
+msgid "Background Color"
+msgstr "Couleur de fond"
+
+#: pushdownoptions.php:765
+msgid ""
+"Speed/Time which the banner will open or close. (For setting your own speed "
+"and time buy the full version)"
+msgstr ""
+"Vitesse / Temps qui la bannière va ouvrir ou fermer. ( Pour régler votre "
+"propre vitesse et le temps acheter la version complète )"
+
+#: pushdownoptions.php:766
+msgid "Speed"
+msgstr "la vitesse"
+
+#: pushdownoptions.php:767
+msgid "Time"
+msgstr "Temps"
+
+#: pushdownoptions.php:779
+msgid "Will your banner auto-open?"
+msgstr "Votre bannière sera auto- ouverte ?"
+
+#: pushdownoptions.php:782
+msgid "Auto-open the banner after"
+msgstr "Auto - ouvrir la bannière après"
+
+#: pushdownoptions.php:782
+msgid "seconds  - Set 0 for right away"
+msgstr "secondes - Mettre 0 pour tout de suite"
+
+#: pushdownoptions.php:785
+msgid "Will your banner auto-close?"
+msgstr "Votre bannière fermeture automatique ?"
+
+#: pushdownoptions.php:792
+msgid "Auto-close the banner after"
+msgstr "Auto - fermer la bannière après"
+
+#: pushdownoptions.php:792
+msgid "seconds  - Default is set to 10"
+msgstr "secondes - par défaut est de 10"
+
+#: pushdownoptions.php:801
+msgid "Show the banner on?"
+msgstr "Afficher la bannière sur ?"
+
+#: pushdownoptions.php:801
+msgid "All Pages"
+msgstr "Toutes les pages"
+
+#: pushdownoptions.php:801
+msgid "HomePage Only"
+msgstr "Seulement HomePage"
+
+#: pushdownoptions.php:801
+msgid "Specific Pages Only"
+msgstr "Pages spécifiques Seulement"
+
+#: pushdownoptions.php:804
+msgid "Page Titles"
+msgstr "les titres de page"
+
+#: pushdownoptions.php:804
+msgid ""
+"Titles of the page separated by commas on which to show the banner(Case "
+"Sensitive).Type 'Home' as title to show on homepage"
+msgstr ""
+"Titres de la page séparés par des virgules sur lequel pour montrer la "
+"bannière ( Case Sensitive ) .Type 'Home' que le titre à afficher sur la page "
+"d'accueil"
+
+#: pushdownoptions.php:806
+msgid "Note Only one Push down Banner can be shown on a single page"
+msgstr ""
+"Remarque Un seul Abaissez Bannière peut être affiché sur une seule page."
+
+#: pushdownoptions.php:807
+msgid "Placement: First Item on Page"
+msgstr "le Placement: Première question à la page"
+
+#: pushdownoptions.php:810
+msgid "Placement: Div ID"
+msgstr "le Placement: div id"
+
+#: pushdownoptions.php:810
+msgid ""
+"Id of div or any other html element  in which pushdown banner should appear"
+msgstr ""
+"Id de div ou tout autre élément HTML dans lequel pushdown bannière devrait "
+"apparaître"
+
+#: pushdownoptions.php:810
+msgid ""
+"Note If placing into a Post, manually add a new DIV layer in your post like "
+"this"
+msgstr ""
+"Remarque Si vous placez dans un Post, ajouter manuellement une nouvelle "
+"couche de DIV dans votre message comme celui-ci"
+
+#: pushdownoptions.php:810
+msgid "Then add \"pushdownpost\" in the box above"
+msgstr "Puis ajouter \" pushdownpost \" dans le tableau ci-dessus"
+
+#: pushdownoptions.php:810
+msgid "Placement of Push down Banner?"
+msgstr "Placement des Pousser vers le bas Bannière?"
+
+#: pushdownoptions.php:810
+msgid "Start of Div"
+msgstr "Début de la Div"
+
+#: pushdownoptions.php:810
+msgid "End of Div"
+msgstr "Fin de Div"
+
+#: pushdownoptions.php:812
+msgid "Add CSS above your Push Down Banner"
+msgstr "Ajouter CSS -dessus de votre pousser vers le bas bannière "
+
+#: pushdownoptions.php:814
+msgid "Add CSS below your Push Down Banner"
+msgstr "Ajouter CSS ci-dessous votre pousser vers le bas Bannière"
+
+#: pushdownoptions.php:899
+msgid "Preview Banner"
+msgstr "Aperçu Bannière"
+
+#: pushdownoptions.php:899
+msgid "Save Banner"
+msgstr "Sauvegarder Bannière"
+
+#: pushdownbanner.php:4
+msgid "Push Down Banners (Free Version)"
+msgstr "Pousser vers le bas Bannières (version gratuite )"
+
+#: pushdownbanner.php:6
+msgid ""
+"Create professional push down banners for any page on your Wordpress site."
+msgstr ""
+"Créer des Pousser vers le bas bannières professionnels pour une page sur "
+"votre site Wordpress."
+
+#~ msgid "Weekly Stats"
+#~ msgstr "statistiques hebdomadaires..."
+
+#~ msgid "Monthly Stats"
+#~ msgstr "Statistiques mensuelles"
+
+#~ msgid "Month"
+#~ msgstr "Mois"
+
+#~ msgid "Date"
+#~ msgstr "Date"
+
+#~ msgid "Week"
+#~ msgstr "Semaine"
+
+#~ msgid "Clicks"
+#~ msgstr "Clics"
+
+#~ msgid "Impressions"
+#~ msgstr "Impressions"
+
+#~ msgid "Opens"
+#~ msgstr "Ouvertures"
+
+#~ msgid "Click Through Rate"
+#~ msgstr "Taux de Clics"
+
+#~ msgid "Monthly"
+#~ msgstr "Mensuelles"
+
+#~ msgid "Daily"
+#~ msgstr "Quotidiennes"
+
+#~ msgid "Weekly"
+#~ msgstr "Hebdomadaire"
+
+#~ msgid "Stats History"
+#~ msgstr "Statistiques Histoire"
+
+#~ msgid "No history found."
+#~ msgstr "Pas d'historique"
+
+#~ msgid "History"
+#~ msgstr "Histoire"
+
+#~ msgid "HISTORY"
+#~ msgstr "Histoire"
+
+#~ msgid "My Push Down Banners Weekly Stats"
+#~ msgstr "Mon poussant vers le bas de bannières statistiques hebdomadaire"
+
+#~ msgid "Imp. this week"
+#~ msgstr "IMP. cette semaine"
+
+#~ msgid "Opens this week"
+#~ msgstr "Ouvre  cette semaine"
+
+#~ msgid "Clicks this week"
+#~ msgstr "Clics cette semaine"
+
+#~ msgid "My Push Down Banners Monthly Stats"
+#~ msgstr "Mon poussant vers le bas de bannières  Statistiques mensuelles"
+
+#~ msgid "Imp. this month"
+#~ msgstr "IMP. ce mois"
+
+#~ msgid "Opens this month"
+#~ msgstr "Ouvre  ce mois"
+
+#~ msgid "Clicks this month"
+#~ msgstr "Clics ce mois"
+
+#~ msgid "Please make sure first banner, main banner images are uploaded"
+#~ msgstr ""
+#~ "S'il vous plaît assurez-vous que la première bannière, images principales "
+#~ "bannières sont téléchargés"
+
+#~ msgid "Please make sure first and main flash banner files are uploaded"
+#~ msgstr ""
+#~ "S'il vous plaît assurez-vous que les premiers et principaux fichiers "
+#~ "flash bannières sont téléchargés"
+
+#~ msgid "Please make sure close button image is uploaded"
+#~ msgstr ""
+#~ "S'il vous plaît assurez-vous que l'image de bouton de fermeture est "
+#~ "téléchargé"
+
+#~ msgid ""
+#~ "Please make sure first banner, main banner and close button images are "
+#~ "uploaded"
+#~ msgstr ""
+#~ "S'il vous plaît assurez- première bannière , bannière principale et à "
+#~ "proximité images de bouton sont téléchargés"
+
+#~ msgid "Please make sure close button and main banner images are uploaded"
+#~ msgstr ""
+#~ "S'il vous plaît assurez-vous que le bouton de fermeture et les "
+#~ "principales images de bannières sont téléchargés"
+
+#~ msgid ""
+#~ "Please make sure first flash banner, main flash banner , first backup and "
+#~ "main backup images are uploaded"
+#~ msgstr ""
+#~ "S'il vous plaît assurez-vous que la première bannière flash , flash "
+#~ "principal bannière, première sauvegarde et les principales images de "
+#~ "sauvegarde sont téléchargés"
+
+#~ msgid ""
+#~ "Please make sure main flash banner and main backup images are uploaded"
+#~ msgstr ""
+#~ "S'il vous plaît assurez-vous que principale bannière flash et les "
+#~ "principales images de sauvegarde sont téléchargés"
+
+#~ msgid "Please make sure main flash banner file is uploaded"
+#~ msgstr ""
+#~ "S'il vous plaît assurez-vous que le fichier flash principal de la "
+#~ "bannière est téléchargé"
+
+#~ msgid "Type of banner:"
+#~ msgstr "Type de bannière :"
+
+#~ msgid "Flash Banner"
+#~ msgstr "Bannière de l'flash"
+
+#~ msgid "HTML Banner"
+#~ msgstr "Bannière de l'html"
+
+#~ msgid ""
+#~ "There are 4 different kinds of HTML Push Down Banners, select the style "
+#~ "that you'll like to create"
+#~ msgstr ""
+#~ "Il y a 4 types différents de HTML Abaissez Bannières , sélectionnez le "
+#~ "style que vous souhaitez créer"
+
+#~ msgid "Option 1"
+#~ msgstr "las option 1"
+
+#~ msgid "2 html banners (Open Banner &amp; Main Banner ) + Close button"
+#~ msgstr ""
+#~ "2 bannières html (Ouverte Bannière &amp; Principal Bannière ) + bouton "
+#~ "Fermer"
+
+#~ msgid "Option 2"
+#~ msgstr "las option 2"
+
+#~ msgid "2 html banners (Open Banner  &amp; Main Banner ) + Auto-Close"
+#~ msgstr ""
+#~ "2 bannières html (Ouverte Bannière &amp; Principal Bannière ) + Auto -"
+#~ "fermer"
+
+#~ msgid "Option 3"
+#~ msgstr "las option 3"
+
+#~ msgid "1 html banner (Main Banner ) + Auto-Opens + Close Button"
+#~ msgstr "1 html bannière (Principal Bannière ) + Auto- Ouvre + bouton fermer"
+
+#~ msgid "Option 4"
+#~ msgstr "las option 4"
+
+#~ msgid "1 html banner (Main Banner ) + Auto-Open &amp; Close"
+#~ msgstr "1 html bannière (Principal Bannière ) + Auto -Ouvre &amp; fermer"
+
+#~ msgid "First/Open HTML Banner"
+#~ msgstr "Première / Ouverte HTML Bannière:"
+
+#~ msgid ""
+#~ "In your html code include this code in onclick event or href\n"
+#~ "  to open main html banner"
+#~ msgstr ""
+#~ "Dans votre code html inclure ce code dans l'événement onclick ou href\n"
+#~ "  pour ouvrir principale html bannière"
+
+#~ msgid "OPEN BUTTON CODE"
+#~ msgstr "Code du bouton OUVERT"
+
+#~ msgid "CLICK TO OPEN"
+#~ msgstr "Cliquez ici pour ouvrir"
+
+#~ msgid "OR"
+#~ msgstr "OU"
+
+#~ msgid "ROLLOVER TO OPEN"
+#~ msgstr "ROLLOVER POUR OUVRIR"
+
+#~ msgid "Enter HTML Code for your First Banner"
+#~ msgstr "Entrez le code HTML pour votre première bannière"
+
+#~ msgid "Enter the width of first html banner"
+#~ msgstr "Entrez la largeur de la première bannière html"
+
+#~ msgid "Enter the heigth of first html banner"
+#~ msgstr "Entrez le hauteur de la première bannière html"
+
+#~ msgid "When the HTML banner opens the first banner will disappear?"
+#~ msgstr "Lorsque la bannière HTML ouvre la première bannière disparaît ?"
+
+#~ msgid ""
+#~ "In your html code add toggle(); function to  onclick event or href\n"
+#~ "  to open main html banner"
+#~ msgstr ""
+#~ "Dans votre code html ajouter  toggle ( ) ;  fonction à l'événement "
+#~ "onclick ou href\n"
+#~ "  pour ouvrir principale html bannière"
+
+#~ msgid "Main HTML Banner"
+#~ msgstr "Principal HTML Bannière:"
+
+#~ msgid ""
+#~ "If you want to track clicks on your main html banner\n"
+#~ "  add this code to onclick event of your ad link"
+#~ msgstr ""
+#~ "Si vous voulez suivre les clics sur votre bannière principale html\n"
+#~ "  ajouter ce code à l'événement onclick de votre annonce lien"
+
+#~ msgid "Main Banner Type"
+#~ msgstr "Type de principal bannière :"
+
+#~ msgid "Html Code"
+#~ msgstr "Le code HTML"
+
+#~ msgid "External file"
+#~ msgstr "fichier externe"
+
+#~ msgid "Enter HTML Code for your Main Banner"
+#~ msgstr "Entrez le code HTML pour votre bannière principale"
+
+#~ msgid "Enter full Link for your Main Banner File"
+#~ msgstr "Entrez pleine Lien pour votre fichier bannière principale"
+
+#~ msgid ""
+#~ "The file could be .html or .php e.g 'http://www.someserver.com/somefile."
+#~ "php'"
+#~ msgstr ""
+#~ "Le fichier peut être .html ou .php e.g ' http://www.someserver.com/"
+#~ "somefile.php '"
+
+#~ msgid "Enter the width of main html banner"
+#~ msgstr "Entrez la largeur de la première bannière html"
+
+#~ msgid "Enter the heigth of main html banner"
+#~ msgstr "Entrez le hauteur de la première bannière html"
+
+#~ msgid "Do you want to add a Close Button?"
+#~ msgstr "Voulez-vous ajouter un bouton de fermeture ?"
+
+#~ msgid ""
+#~ "In your html code this code to  onclick event or href\n"
+#~ "  to close html banner"
+#~ msgstr ""
+#~ "Dans votre code html ce code à l'événement onclick ou href\n"
+#~ "  à fermer la bannière html"
+
+#~ msgid "CLOSE BUTTON CODE"
+#~ msgstr "CODE bouton Fermer"
+
+#~ msgid "CLICK TO CLOSE"
+#~ msgstr "Cliquez pour fermer"
+
+#~ msgid "ROLLOVER TO CLOSE"
+#~ msgstr "ROLLOVER POUR FERMER"
+
+#~ msgid "ROLLOFF TO CLOSE"
+#~ msgstr "ROLLOFF POUR FERMER"
+
+#~ msgid ""
+#~ "If you are using option first html banner disapper when main banner opens "
+#~ "then add toggle(0); to onlclick or href to close html banner"
+#~ msgstr ""
+#~ "Si vous utilisez l'option première html bannière disapper quand bannière "
+#~ "principale ouvre alors ajouter toggle ( 0 ) ; à onlclick ou href fermer "
+#~ "bannière html"
+
+#~ msgid "Close Banner"
+#~ msgstr "fermer bannière "
+
+#~ msgid "Use our generic close button"
+#~ msgstr "Utilisez notre bouton Fermer générique"
+
+#~ msgid "Or, Upload your own"
+#~ msgstr "Ou , Téléchargez votre propre"
+
+#~ msgid "Select 1 close image"
+#~ msgstr "Sélectionnez 1 fermer l'image "
+
+#~ msgid "Add extra code to the close button?"
+#~ msgstr "Ajouter du code supplémentaire pour le bouton de fermeture ?"
+
+#~ msgid "(the code to execute when close button is clicked)"
+#~ msgstr "( le code à exécuter lorsque le bouton de fermeture est cliqué )"
+
+#~ msgid "Enter the code to add to close button"
+#~ msgstr "Entrez le code à ajouter bouton pour fermer "
+
+#~ msgid "Will you have an open button?"
+#~ msgstr "Aurez-vous un bouton d'ouverture ?"
+
+#~ msgid ""
+#~ "Create your small first banner. Add a button that says Click here to "
+#~ "expand.\n"
+#~ "  On that button add this Actionscript"
+#~ msgstr ""
+#~ "Créer votre petite première bannière . Ajouter un bouton qui dit cliquez "
+#~ "ici pour élargir .\n"
+#~ "  Sur ce bouton ajouter cette Actionscript"
+
+#~ msgid "To expand banner on rollover add this Actionscript"
+#~ msgstr "Pour développer bannière sur rollover ajouter cette Actionscript"
+
+#~ msgid "Change First/Open banner flash file(swf)"
+#~ msgstr "Changer Premier/Ouverte fichier bannière flash ( swf )"
+
+#~ msgid "Upload your First/Open banner flash file(swf)"
+#~ msgstr "Téléchargez votre premier/ouverte fichier bannière  flash ( swf )"
+
+#~ msgid "When the Main Flash banner opens the first banner will disappear?"
+#~ msgstr ""
+#~ "Lorsque la bannière principale Flash ouvre la première bannière "
+#~ "disparaît ?"
+
+#~ msgid "In your flash code add toggle(); function to   Actionscript"
+#~ msgstr ""
+#~ "Dans votre code flash ajouter toggle( ) ; fonction pour Actionscript"
+
+#~ msgid ""
+#~ "And if you have your own flash close button \n"
+#~ " On that button add this Actionscript"
+#~ msgstr ""
+#~ "Et si vous avez votre propre bouton de fermeture éclair\n"
+#~ " Sur ce bouton ajouter cette Actionscript"
+
+#~ msgid "To close banner on rollover add this Actionscript"
+#~ msgstr "Pour fermer bannière sur rollover ajouter cette Actionscript"
+
+#~ msgid ""
+#~ "If you want to track clicks on flash banner.\n"
+#~ "  Add this Actionscript on Ad link"
+#~ msgstr ""
+#~ "Si vous voulez suivre les clics sur bannière flash .\n"
+#~ "  Ajouter cette Actionscript sur ​​le lien de l'annonce"
+
+#~ msgid "Change main banner flash file(swf)"
+#~ msgstr "Changer principal fichier bannière flash ( swf )"
+
+#~ msgid "Upload your main banner flash file(swf)"
+#~ msgstr "Téléchargez votre principal fichier bannière  flash ( swf )"
+
+#~ msgid "Set the height of your main banner in the first/opening state"
+#~ msgstr ""
+#~ "Réglez la hauteur de votre bannière principale dans le premier état / "
+#~ "d'ouverture"
+
+#~ msgid "Will you have a close button in your flash file?"
+#~ msgstr "Aurez-vous un bouton de fermeture dans votre fichier flash ?"
+
+#~ msgid ""
+#~ "Add a visible close button in your main banner flash file.\n"
+#~ "  On that button add this Actionscript"
+#~ msgstr ""
+#~ "Ajouter un bouton de fermeture visible dans votre fichier principal "
+#~ "bannière flash .\n"
+#~ "  Sur ce bouton ajouter cette Actionscript"
+
+#~ msgid "Will you have a regular close button under your flash banner?"
+#~ msgstr ""
+#~ "Aurez-vous un bouton de fermeture régulière sous votre bannière flash ?"
+
+#~ msgid "Do you want to have backup image for your flash file?"
+#~ msgstr "Voulez-vous d'avoir l'image de sauvegarde de votre fichier flash ?"
+
+#~ msgid ""
+#~ "Change First/Open banner backup image (jpg, gif, png, max file size 50kb)"
+#~ msgstr ""
+#~ "Modifier Première image / Open bannière de sauvegarde ( jpg , gif, png , "
+#~ "fichier max taille 50kb )"
+
+#~ msgid ""
+#~ "Upload your First/Open banner backup image (jpg, gif, png, max file size "
+#~ "50kb)"
+#~ msgstr ""
+#~ "Téléchargez votre image bannière de sauvegarde Premier / Open ( jpg , "
+#~ "gif, png , Taille max 50kb )"
+
+#~ msgid "Change Main banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Modifier l'image principale bannière de sauvegarde ( jpg , gif, png , "
+#~ "fichier max taille 250kb )"
+
+#~ msgid ""
+#~ "Upload your Main banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Téléchargez votre image bannière de sauvegarde principal ( jpg , gif, "
+#~ "png , fichier max taille 250kb )"
+
+#~ msgid ""
+#~ "There are 4 different kinds of image Push Down Banners, select the style "
+#~ "that you'll like to create"
+#~ msgstr ""
+#~ "Il y a 4 types différents de l'image Abaissez Bannières , sélectionnez le "
+#~ "style que vous souhaitez créer"
+
+#~ msgid "2 Images (Open Banner &amp; Main Banner ) + Close button"
+#~ msgstr ""
+#~ "2 Images (Ouverte Bannière &amp; Principal Bannière ) + bouton Fermer"
+
+#~ msgid "2 Images (Open Banner  &amp; Main Banner ) + Auto-Close"
+#~ msgstr ""
+#~ "2 Images (Ouverte Bannière &amp; Principal Bannière ) + Auto -fermer"
+
+#~ msgid "1 Image (Main Banner ) + Auto-Opens + Close Button"
+#~ msgstr "1 Image (Principal Bannière ) + Auto- Ouvre + bouton fermer"
+
+#~ msgid "First/Open Banner"
+#~ msgstr "Première / Open Bannière"
+
+#~ msgid "When you click this image, will this image dissappear?"
+#~ msgstr "Lorsque vous cliquez sur cette image , cette image sera disparait ?"
+
+#~ msgid "When you click this image, it will open the Push Down Banner?"
+#~ msgstr ""
+#~ "Lorsque vous cliquez sur cette image , il ouvrira le pousser vers le bas "
+#~ "Banner?"
+
+#~ msgid "If no, Please set the URL you want it to link to http://"
+#~ msgstr ""
+#~ "Si non, S'il vous plaît définir l'URL que vous souhaitez faire un lien "
+#~ "vers http: //"
+
+#~ msgid "Set the Speed/Time which the banner will open or close"
+#~ msgstr "Réglage de la vitesse / temps qui la bannière va ouvrir ou fermer"
+
+#~ msgid "Note Only one Push down Banner can be shown on a single page."
+#~ msgstr ""
+#~ "Remarque Un seul Abaissez Bannière peut être affiché sur une seule page."
+
+#~ msgid ""
+#~ "Id of div or any other html element  in which pushdown banner should "
+#~ "appear "
+#~ msgstr ""
+#~ "Id de div ou tout autre élément HTML dans lequel pushdown bannière "
+#~ "devrait apparaître"
+
+#~ msgid "Expandable Banners"
+#~ msgstr "Bannières Extensibles"
+
+#~ msgid "Add New Expandable Banner"
+#~ msgstr "Ajouter Nouvelle bannière extensible"
+
+#~ msgid "Click Through Rate (%)"
+#~ msgstr "Taux de clics (%)"
+
+#~ msgid "No history found"
+#~ msgstr "Pas d'historique"
+
+#~ msgid "Melodic Media Expandable Banner"
+#~ msgstr "Mélodique Media bannière extensible"
+
+#~ msgid "My Expandable Banners Monthly Stats"
+#~ msgstr "Mes extensibles Bannières Statistiques mensuelles"
+
+#~ msgid "Expandable Banner"
+#~ msgstr "Bannière extensible"
+
+#~ msgid "You have currently no expandable banners"
+#~ msgstr "Vous n'avez actuellement aucune Bannières extensibles"
+
+#~ msgid "My Expandable Banners Daily Stats"
+#~ msgstr "Mes Stats quotidienne de bannières extensibles"
+
+#~ msgid "You have currently no expandable banners."
+#~ msgstr "Vous n'avez actuellement aucune Bannières extensibles"
+
+#~ msgid "My Expandable Banners Weekly Stats"
+#~ msgstr "Mes extensibles Bannières Statistiques Hebdomadaire"
+
+#~ msgid "My Expandable Banners"
+#~ msgstr "Mes bannières extensibles"
+
+#~ msgid "Please make sure backup image is uploaded"
+#~ msgstr ""
+#~ "S'il vous plaît assurez-vous que l'image de sauvegarde est téléchargé"
+
+#~ msgid "Edit Expandable Banner"
+#~ msgstr "Modifier extensible Bannière"
+
+#~ msgid "New Expandable Banner"
+#~ msgstr "Nouvelle bannière extensible"
+
+#~ msgid "First/Open Banner:"
+#~ msgstr "Première / Open Bannière:"
+
+#~ msgid "Expand On"
+#~ msgstr "Développer Sur"
+
+#~ msgid "Rollover"
+#~ msgstr "Rouler"
+
+#~ msgid "Click"
+#~ msgstr "Cliquez"
+
+#~ msgid "2nd Banner:"
+#~ msgstr "une deuxième bannière"
+
+#~ msgid "First/Open Flash Banner:"
+#~ msgstr "Première / Open Flash Bannière:"
+
+#~ msgid "Upload your first/open banner flash file(swf)"
+#~ msgstr "Téléchargez votre premier/ouverte fichier bannière  flash ( swf )"
+
+#~ msgid ""
+#~ "Add this Actionscript on link or button to open/expand banner on click"
+#~ msgstr ""
+#~ "Ajouter cette Actionscript sur ​​le lien ou sur le bouton pour ouvrir / "
+#~ "étendre bannière sur clic"
+
+#~ msgid "To open banner on rollover add this Actionscript"
+#~ msgstr "Pour ouvrir bannière sur rollover ajouter cette Actionscript"
+
+#~ msgid "2nd Flash Banner:"
+#~ msgstr "une deuxième flash bannière"
+
+#~ msgid ""
+#~ "where 'enter_banner_name' is the name of your expandable banner.Make sure "
+#~ "that you replace the spaces in name with '_'."
+#~ msgstr ""
+#~ "où « enter_banner_name ' est le nom de votre banner.Make extensible vous "
+#~ "que vous remplacez les espaces dans le nom de ' _ ' ."
+
+#~ msgid "Change 2nd banner flash file(swf)"
+#~ msgstr "Changer deuxième fichier bannière flash ( swf )"
+
+#~ msgid "Upload your 2nd banner flash file(swf)"
+#~ msgstr "Téléchargez votre deuxième fichier bannière  flash ( swf )"
+
+#~ msgid ""
+#~ "Change First/Open banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Changer Première/Ouverte image  bannière de sauvegarde ( jpg , gif, png , "
+#~ "Taille max 250kb )"
+
+#~ msgid "Change 2nd banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Changer l'image deuxième bannière de sauvegarde ( jpg , gif, png , Taille "
+#~ "max 250kb )"
+
+#~ msgid ""
+#~ "Upload your 2nd banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Téléchargez votre photo deuxième bannière de sauvegarde ( jpg , gif, "
+#~ "png , Taille max 250kb )"
+
+#~ msgid "First/Open HTML Banner:"
+#~ msgstr "Première / Open HTML Bannière:"
+
+#~ msgid "Main HTML Banner:"
+#~ msgstr "Principal HTML Bannière:"
+
+#~ msgid "Does your Main HTML Code contains Javascript?"
+#~ msgstr "Est-ce que votre code HTML principal Code contient Javascript ?"
+
+#~ msgid "Use a Close button?"
+#~ msgstr "Utilisez un bouton Fermer ?"
+
+#~ msgid "Close Button:"
+#~ msgstr "Bouton Fermer :"
+
+#~ msgid "Select 1 close image:"
+#~ msgstr "Sélectionnez 1 fermer l'image :"
+
+#~ msgid "Set Placement of close button:"
+#~ msgstr "Réglez placement de bouton de fermeture :"
+
+#~ msgid "Top-Left"
+#~ msgstr "En haut à gauche"
+
+#~ msgid "Top-Right"
+#~ msgstr "En haut à droite"
+
+#~ msgid "Bottom-Left"
+#~ msgstr "En bas à gauche"
+
+#~ msgid "Bottom-Right"
+#~ msgstr "En bas à droite"
+
+#~ msgid "Do you want close button on outside?"
+#~ msgstr "Voulez-vous bouton de fermeture de l'extérieur ?"
+
+#~ msgid "Enter the code to add to close button:"
+#~ msgstr "Entrez le code à ajouter bouton pour fermer :"
+
+#~ msgid "Expand Direction:"
+#~ msgstr "Développer Direction :"
+
+#~ msgid "Left-Top"
+#~ msgstr "Gauche - Haut"
+
+#~ msgid "Center-Top"
+#~ msgstr "Centre - Haut"
+
+#~ msgid "Right-Top"
+#~ msgstr "Droit - Haut"
+
+#~ msgid "Left-Center"
+#~ msgstr "Gauche -Centre"
+
+#~ msgid "Center-Center"
+#~ msgstr "Centre-Centre "
+
+#~ msgid "Right-Center"
+#~ msgstr "Droit - Centre"
+
+#~ msgid "Left-Bottom"
+#~ msgstr "Gauche - Bas"
+
+#~ msgid "Center-Bottom"
+#~ msgstr "Centre - Bas"
+
+#~ msgid "Right-Bottom"
+#~ msgstr "Droit-Bas"
+
+#~ msgid "Animate?"
+#~ msgstr "Animer?"
+
+#~ msgid "YES"
+#~ msgstr "Oui"
+
+#~ msgid "NO"
+#~ msgstr "Non"
+
+#~ msgid "Animation Speed"
+#~ msgstr "La vitesse d'animation"
+
+#~ msgid "Will this be a Corner Page Peel Banner?"
+#~ msgstr "Sera-ce un coin Peel page Banner?"
+
+#~ msgid "seconds  - Set 0 for right away."
+#~ msgstr "secondes - Mettre 0 pour tout de suite."
+
+#~ msgid ""
+#~ "Titles of the page separated by commas on which to show the banner.(Case "
+#~ "Sensitive)"
+#~ msgstr ""
+#~ "Titres de la page séparés par des virgules sur lesquelles montrer la "
+#~ "bannière . ( Sensible à la casse )"
+
+#~ msgid ""
+#~ "Id of div or any other html element  in which expandable banner should "
+#~ "appear"
+#~ msgstr ""
+#~ "Id de div ou tout autre élément HTML dans lequel bannière extensible "
+#~ "devrait apparaître"
+
+#~ msgid "Then add \"expandablepost\" in the box above"
+#~ msgstr "Puis ajouter \" expandablepost \" dans le tableau ci-dessus"
+
+#~ msgid "Placement of Expandable Banner?"
+#~ msgstr "placement de  bannière extensible"
+
+#~ msgid "Add CSS above your Expandable Banner"
+#~ msgstr "Ajouter CSS -dessus de votre bannière extensible"
+
+#~ msgid "Add CSS below your Expandable Banner"
+#~ msgstr "Ajouter CSS ci-dessous votre extensible Bannière"
+
+#~ msgid "Screen size to display on:"
+#~ msgstr "Taille de l'écran pour afficher sur:"
+
+#~ msgid "All Sizes"
+#~ msgstr "Toutes les tailles"
+
+#~ msgid "Desktop Only"
+#~ msgstr "Seulement bureau"
+
+#~ msgid "Tablet Only"
+#~ msgstr "Seulement tablette"
+
+#~ msgid "Mobile Only"
+#~ msgstr "Seulement mobile"
+
+#~ msgid "Screen Width"
+#~ msgstr "Largeur de l'écran"
+
+#~ msgid ""
+#~ "Create professional expandable banners for any page on your Wordpress "
+#~ "site."
+#~ msgstr ""
+#~ "Créer des bannières extensibles professionnels pour une page sur votre "
+#~ "site Wordpress ."
+
+#~ msgid "CTR"
+#~ msgstr "CTR"
+
+#~ msgid "2. Only \"center to center\" direction expanding option."
+#~ msgstr "2. Seul « centre à centre » l'option expansion de direction."
+
+#~ msgid "2. Expand in any direction."
+#~ msgstr "2. Développer dans tous les sens ."
+
+#~ msgid "Center-Center (For more direction options buy the full version)"
+#~ msgstr ""
+#~ "Centre-Centre ( Pour plus d'options de direction acheter la version "
+#~ "complète )"
+
+#~ msgid " No"
+#~ msgstr "Non"
+
+#~ msgid ""
+#~ "Id of div or any other html element  in which pushdown banner should "
+#~ "appear ."
+#~ msgstr ""
+#~ "Id d' autre élément HTML div ou toute dans lequel pushdown bannière "
+#~ "devrait apparaître ."
+
+#~ msgid ""
+#~ "*Note If placing into a Post, manually add a new DIV layer in your post "
+#~ "like this"
+#~ msgstr ""
+#~ "* Remarque Si vous placez dans un message , ajouter manuellement une "
+#~ "nouvelle couche de DIV dans votre post comme ça"
+
+#~ msgid "Then add \"expandablepost\" in the box above."
+#~ msgstr "Puis ajouter \" expandablepost \" dans la case ci-dessus."
+
+#~ msgid "Expandable Banners (Free Version)"
+#~ msgstr "Bannières extensibles (version gratuite )"
+
+#~ msgid ""
+#~ "Create professional expandable banners for any page on your Wordpress site"
+#~ msgstr ""
+#~ "Créer des bannières extensibles professionnels pour une page sur votre "
+#~ "site Wordpress"

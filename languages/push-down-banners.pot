@@ -1,0 +1,381 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Melodic Media
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-05 13:34+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: pushdownbanner.php:32
+msgid "Buy Full Version"
+msgstr ""
+
+#: pushdownoptions.php:387
+msgid "Push Down Banners"
+msgstr ""
+
+#: pushdownoptions.php:388
+msgid "Add New Pushdown Banner"
+msgstr ""
+
+#: pushdownoptions.php:389
+msgid "Daily Stats"
+msgstr ""
+
+#: pushdownoptions.php:522 pushdownoptions.php:590 pushdownoptions.php:875
+msgid "Melodic Media Push Down Banner"
+msgstr ""
+
+#: pushdownoptions.php:524
+msgid "My Push Down Banners Daily Stats"
+msgstr ""
+
+#: pushdownoptions.php:531 pushdownoptions.php:599
+msgid "Push Down Banner"
+msgstr ""
+
+#: pushdownoptions.php:531 pushdownoptions.php:599 pushdownoptions.php:666
+msgid "Banner Name"
+msgstr ""
+
+#: pushdownoptions.php:531
+msgid "Imp. today"
+msgstr ""
+
+#: pushdownoptions.php:531
+msgid "Opens today"
+msgstr ""
+
+#: pushdownoptions.php:531
+msgid "Clicks today"
+msgstr ""
+
+#: pushdownoptions.php:536 pushdownoptions.php:609
+msgid "You have currently no push down banners."
+msgstr ""
+
+#: pushdownoptions.php:541 pushdownoptions.php:614
+msgid "Free version includes"
+msgstr ""
+
+#: pushdownoptions.php:542 pushdownoptions.php:615
+msgid "1. Save and view daily stats for 1 banner."
+msgstr ""
+
+#: pushdownoptions.php:543 pushdownoptions.php:616
+msgid "2. Only Image banner and only auto close and auto open."
+msgstr ""
+
+#: pushdownoptions.php:545 pushdownoptions.php:618
+msgid "Full version includes"
+msgstr ""
+
+#: pushdownoptions.php:546 pushdownoptions.php:619
+msgid "1. Save and view daily, weekly and monthly stats for unlimited banners."
+msgstr ""
+
+#: pushdownoptions.php:547 pushdownoptions.php:620
+msgid "2. Make Image, flash and HTML unlimited banners."
+msgstr ""
+
+#: pushdownoptions.php:592
+msgid "My Push Down Banners"
+msgstr ""
+
+#: pushdownoptions.php:599
+msgid "Actions"
+msgstr ""
+
+#: pushdownoptions.php:605
+msgid "PREVIEW"
+msgstr ""
+
+#: pushdownoptions.php:605
+msgid "EDIT"
+msgstr ""
+
+#: pushdownoptions.php:632
+msgid "Uploading"
+msgstr ""
+
+#: pushdownoptions.php:633
+msgid "Only jpeg, png and gif images could be uploaded"
+msgstr ""
+
+#: pushdownoptions.php:634
+msgid "Size exceeds 50kb limit"
+msgstr ""
+
+#: pushdownoptions.php:635
+msgid "Uploaded"
+msgstr ""
+
+#: pushdownoptions.php:636
+msgid "Size exceeds 250kb limit"
+msgstr ""
+
+#: pushdownoptions.php:637
+msgid "Only swf file could be uploaded"
+msgstr ""
+
+#: pushdownoptions.php:638
+msgid "Please make sure main banner image is uploaded"
+msgstr ""
+
+#: pushdownoptions.php:639
+msgid "Banner with this name already exists.Please Change the name"
+msgstr ""
+
+#: pushdownoptions.php:640
+msgid "Fill this field"
+msgstr ""
+
+#: pushdownoptions.php:641
+msgid "Please enter valid email address"
+msgstr ""
+
+#: pushdownoptions.php:642
+msgid "Enter only number"
+msgstr ""
+
+#: pushdownoptions.php:643
+msgid "Previous Image deleted. Make sure to save banner"
+msgstr ""
+
+#: pushdownoptions.php:644
+msgid "Previous flash deleted. Make sure to save banner"
+msgstr ""
+
+#: pushdownoptions.php:645
+msgid "Correct Errors"
+msgstr ""
+
+#: pushdownoptions.php:661
+msgid "Edit Push Down Banner"
+msgstr ""
+
+#: pushdownoptions.php:663
+msgid "New Push Down Banner"
+msgstr ""
+
+#: pushdownoptions.php:676
+msgid "Show the banner only once per day?"
+msgstr ""
+
+#: pushdownoptions.php:677 pushdownoptions.php:740 pushdownoptions.php:747
+#: pushdownoptions.php:779 pushdownoptions.php:786 pushdownoptions.php:807
+msgid "Yes"
+msgstr ""
+
+#: pushdownoptions.php:677 pushdownoptions.php:742 pushdownoptions.php:748
+#: pushdownoptions.php:780 pushdownoptions.php:786 pushdownoptions.php:807
+msgid "No"
+msgstr ""
+
+#: pushdownoptions.php:703
+msgid "Type of banner"
+msgstr ""
+
+#: pushdownoptions.php:704
+msgid "Image Banner"
+msgstr ""
+
+#: pushdownoptions.php:704
+msgid "(For making flash and html banners buy the full version)"
+msgstr ""
+
+#: pushdownoptions.php:713
+msgid ""
+"There are 4 different kinds of image Push Down Banners,(For more options buy "
+"the full version)"
+msgstr ""
+
+#: pushdownoptions.php:725
+msgid "Option"
+msgstr ""
+
+#: pushdownoptions.php:725
+msgid "1 Image (Main Banner ) + Auto-Open &amp; Close"
+msgstr ""
+
+#: pushdownoptions.php:731
+msgid "Main Banner"
+msgstr ""
+
+#: pushdownoptions.php:735
+msgid "Change Image (jpg, gif, png, max file size 250kb)"
+msgstr ""
+
+#: pushdownoptions.php:737
+msgid "Upload your Image (jpg, gif, png, max file size 250kb)"
+msgstr ""
+
+#: pushdownoptions.php:738
+msgid "Please set the URL you want it to link to http://"
+msgstr ""
+
+#: pushdownoptions.php:739
+msgid "Open link in new window?"
+msgstr ""
+
+#: pushdownoptions.php:747
+msgid "Make the banner Responsive?"
+msgstr ""
+
+#: pushdownoptions.php:751
+msgid "Set a background Image"
+msgstr ""
+
+#: pushdownoptions.php:754
+msgid "Change Image (jpg, gif, png, max file size 50kb)"
+msgstr ""
+
+#: pushdownoptions.php:759
+msgid "Upload your Image (jpg, gif, png, max file size 50kb)"
+msgstr ""
+
+#: pushdownoptions.php:762
+msgid "Set a background Color"
+msgstr ""
+
+#: pushdownoptions.php:763
+msgid "Background Color"
+msgstr ""
+
+#: pushdownoptions.php:765
+msgid ""
+"Speed/Time which the banner will open or close. (For setting your own speed "
+"and time buy the full version)"
+msgstr ""
+
+#: pushdownoptions.php:766
+msgid "Speed"
+msgstr ""
+
+#: pushdownoptions.php:767
+msgid "Time"
+msgstr ""
+
+#: pushdownoptions.php:779
+msgid "Will your banner auto-open?"
+msgstr ""
+
+#: pushdownoptions.php:782
+msgid "Auto-open the banner after"
+msgstr ""
+
+#: pushdownoptions.php:782
+msgid "seconds  - Set 0 for right away"
+msgstr ""
+
+#: pushdownoptions.php:785
+msgid "Will your banner auto-close?"
+msgstr ""
+
+#: pushdownoptions.php:792
+msgid "Auto-close the banner after"
+msgstr ""
+
+#: pushdownoptions.php:792
+msgid "seconds  - Default is set to 10"
+msgstr ""
+
+#: pushdownoptions.php:801
+msgid "Show the banner on?"
+msgstr ""
+
+#: pushdownoptions.php:801
+msgid "All Pages"
+msgstr ""
+
+#: pushdownoptions.php:801
+msgid "HomePage Only"
+msgstr ""
+
+#: pushdownoptions.php:801
+msgid "Specific Pages Only"
+msgstr ""
+
+#: pushdownoptions.php:804
+msgid "Page Titles"
+msgstr ""
+
+#: pushdownoptions.php:804
+msgid ""
+"Titles of the page separated by commas on which to show the banner(Case "
+"Sensitive).Type 'Home' as title to show on homepage"
+msgstr ""
+
+#: pushdownoptions.php:806
+msgid "Note Only one Push down Banner can be shown on a single page"
+msgstr ""
+
+#: pushdownoptions.php:807
+msgid "Placement: First Item on Page"
+msgstr ""
+
+#: pushdownoptions.php:810
+msgid "Placement: Div ID"
+msgstr ""
+
+#: pushdownoptions.php:810
+msgid ""
+"Id of div or any other html element  in which pushdown banner should appear"
+msgstr ""
+
+#: pushdownoptions.php:810
+msgid ""
+"Note If placing into a Post, manually add a new DIV layer in your post like "
+"this"
+msgstr ""
+
+#: pushdownoptions.php:810
+msgid "Then add \"pushdownpost\" in the box above"
+msgstr ""
+
+#: pushdownoptions.php:810
+msgid "Placement of Push down Banner?"
+msgstr ""
+
+#: pushdownoptions.php:810
+msgid "Start of Div"
+msgstr ""
+
+#: pushdownoptions.php:810
+msgid "End of Div"
+msgstr ""
+
+#: pushdownoptions.php:812
+msgid "Add CSS above your Push Down Banner"
+msgstr ""
+
+#: pushdownoptions.php:814
+msgid "Add CSS below your Push Down Banner"
+msgstr ""
+
+#: pushdownoptions.php:899
+msgid "Preview Banner"
+msgstr ""
+
+#: pushdownoptions.php:899
+msgid "Save Banner"
+msgstr ""
+#: pushdownbanner.php:4
+msgid "Push Down Banners (Free Version)"
+msgstr ""
+
+#: pushdownbanner.php:6
+msgid "Create professional push down banners for any page on your Wordpress site."
+msgstr ""
+

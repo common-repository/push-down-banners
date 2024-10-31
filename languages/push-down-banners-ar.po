@@ -1,0 +1,1035 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Melodic Media
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-08 21:49+0500\n"
+"PO-Revision-Date: 2016-02-08 21:52+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+
+#: pushdownbanner.php:32
+msgid "Buy Full Version"
+msgstr "شراء الإصدار الكامل"
+
+#: pushdownoptions.php:387
+msgid "Push Down Banners"
+msgstr "دفع أسفل لافتات"
+
+#: pushdownoptions.php:388
+msgid "Add New Pushdown Banner"
+msgstr "إضافة جديد دفع أسفل لافتات"
+
+#: pushdownoptions.php:389
+msgid "Daily Stats"
+msgstr "الإحصائيات اليومية"
+
+#: pushdownoptions.php:522 pushdownoptions.php:590 pushdownoptions.php:875
+msgid "Melodic Media Push Down Banner"
+msgstr "لحني وسائل الإعلام دفع أسفل لافتات"
+
+#: pushdownoptions.php:524
+msgid "My Push Down Banners Daily Stats"
+msgstr "صوري دفع أسفل لافتات يوميا إحصائيات"
+
+#: pushdownoptions.php:531 pushdownoptions.php:599
+msgid "Push Down Banner"
+msgstr " دفع أسفل لافتات"
+
+#: pushdownoptions.php:531 pushdownoptions.php:599 pushdownoptions.php:666
+msgid "Banner Name"
+msgstr "اسم راية"
+
+#: pushdownoptions.php:531
+msgid "Imp. today"
+msgstr "ظهور اليوم"
+
+#: pushdownoptions.php:531
+msgid "Opens today"
+msgstr "يفتتح اليوم"
+
+#: pushdownoptions.php:531
+msgid "Clicks today"
+msgstr "ينقر اليوم"
+
+#: pushdownoptions.php:536 pushdownoptions.php:609
+msgid "You have currently no push down banners."
+msgstr "لديك حاليا لا دفع أسفل لافتات."
+
+#: pushdownoptions.php:541 pushdownoptions.php:614
+msgid "Free version includes"
+msgstr "يتضمن الإصدار المجاني"
+
+#: pushdownoptions.php:542 pushdownoptions.php:615
+msgid "1. Save and view daily stats for 1 banner."
+msgstr "1-حفظ وعرض إحصائيات يومية لرأيه 1."
+
+#: pushdownoptions.php:543 pushdownoptions.php:616
+msgid "2. Only Image banner and only auto close and auto open."
+msgstr "2-إلا صورة لافتة والسيارات فقط إغلاق والسيارات المفتوحة."
+
+#: pushdownoptions.php:545 pushdownoptions.php:618
+msgid "Full version includes"
+msgstr "يتضمن الإصدار الكامل"
+
+#: pushdownoptions.php:546 pushdownoptions.php:619
+msgid "1. Save and view daily, weekly and monthly stats for unlimited banners."
+msgstr "1-حفظ وعرض يوميا، الإحصائيات الأسبوعية والشهرية لشعارات غير محدود."
+
+#: pushdownoptions.php:547 pushdownoptions.php:620
+msgid "2. Make Image, flash and HTML unlimited banners."
+msgstr "2-جعل الصورة، فلاش و HTML لافتات غير محدود."
+
+#: pushdownoptions.php:592
+msgid "My Push Down Banners"
+msgstr "صوري دفع أسفل لافتات"
+
+#: pushdownoptions.php:599
+msgid "Actions"
+msgstr "الإجراءات"
+
+#: pushdownoptions.php:605
+msgid "PREVIEW"
+msgstr "معاينة"
+
+#: pushdownoptions.php:605
+msgid "EDIT"
+msgstr "تحرير"
+
+#: pushdownoptions.php:632
+msgid "Uploading"
+msgstr "تحميل"
+
+#: pushdownoptions.php:633
+msgid "Only jpeg, png and gif images could be uploaded"
+msgstr "يمكن تحميل الصور ,PNG,GIF,JPEG فقط"
+
+#: pushdownoptions.php:634
+msgid "Size exceeds 50kb limit"
+msgstr "يتجاوز الحد الأقصى لحجم 50KB"
+
+#: pushdownoptions.php:635
+msgid "Uploaded"
+msgstr "تم الرفع."
+
+#: pushdownoptions.php:636
+msgid "Size exceeds 250kb limit"
+msgstr "يتجاوز الحد الأقصى لحجم 250KB"
+
+#: pushdownoptions.php:637
+msgid "Only swf file could be uploaded"
+msgstr "يمكن تحميل ملف فرنك سويسري الوحيد"
+
+#: pushdownoptions.php:638
+msgid "Please make sure main banner image is uploaded"
+msgstr "الرجاء التأكد من تحميل صورة الشعار الرئيسي"
+
+#: pushdownoptions.php:639
+msgid "Banner with this name already exists.Please Change the name"
+msgstr "هذا الاسم موجود مسبقاً."
+
+#: pushdownoptions.php:640
+msgid "Fill this field"
+msgstr "ملء هذا المجال"
+
+#: pushdownoptions.php:641
+msgid "Please enter valid email address"
+msgstr "من فضلك أدخل عنوان بريد إلكتروني صحيح."
+
+#: pushdownoptions.php:642
+msgid "Enter only number"
+msgstr "أدخل الرقم الوحيد"
+
+#: pushdownoptions.php:643
+msgid "Previous Image deleted. Make sure to save banner"
+msgstr "الصورة السابقة حذفها. تأكد من حفظ راية"
+
+#: pushdownoptions.php:644
+msgid "Previous flash deleted. Make sure to save banner"
+msgstr "فلاش السابق حذفها. تأكد من حفظ راية"
+
+#: pushdownoptions.php:645
+msgid "Correct Errors"
+msgstr "أخطاء الصحيحة"
+
+#: pushdownoptions.php:661
+msgid "Edit Push Down Banner"
+msgstr "تحرير دفع أسفل لافتات"
+
+#: pushdownoptions.php:663
+msgid "New Push Down Banner"
+msgstr " جديد دفع أسفل لافتات"
+
+#: pushdownoptions.php:676
+msgid "Show the banner only once per day?"
+msgstr "عرض راية مرة واحدة فقط في اليوم الواحد؟"
+
+#: pushdownoptions.php:677 pushdownoptions.php:740 pushdownoptions.php:747
+#: pushdownoptions.php:779 pushdownoptions.php:786 pushdownoptions.php:807
+msgid "Yes"
+msgstr "نعم"
+
+#: pushdownoptions.php:677 pushdownoptions.php:742 pushdownoptions.php:748
+#: pushdownoptions.php:780 pushdownoptions.php:786 pushdownoptions.php:807
+msgid "No"
+msgstr "لا"
+
+#: pushdownoptions.php:703
+msgid "Type of banner"
+msgstr "نوع من شعار:"
+
+#: pushdownoptions.php:704
+msgid "Image Banner"
+msgstr "صورة اللافتة"
+
+#: pushdownoptions.php:704
+msgid "(For making flash and html banners buy the full version)"
+msgstr "(لصنع الفلاش و html لافتات شراء النسخة الكاملة)"
+
+#: pushdownoptions.php:713
+msgid ""
+"There are 4 different kinds of image Push Down Banners,(For more options buy "
+"the full version)"
+msgstr ""
+"وهناك 4 أنواع مختلفة من صورة \"دفع أسفل لافتات\"، (للاطلاع على مزيد من "
+"خيارات شراء النسخة الكاملة)"
+
+#: pushdownoptions.php:725
+msgid "Option"
+msgstr "خيار"
+
+#: pushdownoptions.php:725
+msgid "1 Image (Main Banner ) + Auto-Open &amp; Close"
+msgstr "صورة 1 (الشعار الرئيسي) + السيارات-فتح وإغلاق"
+
+#: pushdownoptions.php:731
+msgid "Main Banner"
+msgstr "راية الرئيسية"
+
+#: pushdownoptions.php:735
+msgid "Change Image (jpg, gif, png, max file size 250kb)"
+msgstr "تغيير صورة (JPG، GIF، PNG، ملف الحد الأقصى لحجم 250KB)"
+
+#: pushdownoptions.php:737
+msgid "Upload your Image (jpg, gif, png, max file size 250kb)"
+msgstr "تحميل صورة الخاص بك (JPG، GIF، PNG، ملف الحد الأقصى لحجم 250KB)"
+
+#: pushdownoptions.php:738
+msgid "Please set the URL you want it to link to http://"
+msgstr "يرجى وضع عنوان الموقع الذي تريد أن تصل إلى http: //"
+
+#: pushdownoptions.php:739
+msgid "Open link in new window?"
+msgstr "افتح الرابط في نافذة جديدة"
+
+#: pushdownoptions.php:747
+msgid "Make the banner Responsive?"
+msgstr "جعل راية مجيب؟"
+
+#: pushdownoptions.php:751
+msgid "Set a background Image"
+msgstr "تعيين خلفية الصورة"
+
+#: pushdownoptions.php:754
+msgid "Change Image (jpg, gif, png, max file size 50kb)"
+msgstr "تغيير صورة (JPG، GIF، PNG، ملف الحد الأقصى لحجم 50KB)"
+
+#: pushdownoptions.php:759
+msgid "Upload your Image (jpg, gif, png, max file size 50kb)"
+msgstr "تحميل صورة الخاص بك (JPG، GIF، PNG، ملف الحد الأقصى لحجم 50KB)"
+
+#: pushdownoptions.php:762
+msgid "Set a background Color"
+msgstr "تعيين لون خلفية"
+
+#: pushdownoptions.php:763
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: pushdownoptions.php:765
+msgid ""
+"Speed/Time which the banner will open or close. (For setting your own speed "
+"and time buy the full version)"
+msgstr ""
+"السرعة/الوقت الذي الراية سيتم فتح أو إغلاق. (لتحديد السرعة والوقت الخاصة بك "
+"شراء النسخة الكاملة)"
+
+#: pushdownoptions.php:766
+msgid "Speed"
+msgstr "السرعة"
+
+#: pushdownoptions.php:767
+msgid "Time"
+msgstr "وقت"
+
+#: pushdownoptions.php:779
+msgid "Will your banner auto-open?"
+msgstr "سوف الشعار الخاص بك لصناعة السيارات في فتح؟"
+
+#: pushdownoptions.php:782
+msgid "Auto-open the banner after"
+msgstr "لصناعة السيارات في فتح لواء بعد"
+
+#: pushdownoptions.php:782
+msgid "seconds  - Set 0 for right away"
+msgstr "ثوان - تعيين 0 لالفور."
+
+#: pushdownoptions.php:785
+msgid "Will your banner auto-close?"
+msgstr "هل لديك شعار السيارات عن قرب؟"
+
+#: pushdownoptions.php:792
+msgid "Auto-close the banner after"
+msgstr "لصناعة السيارات في إغلاق راية بعد"
+
+#: pushdownoptions.php:792
+msgid "seconds  - Default is set to 10"
+msgstr "ثواني - تم تعيين الافتراضي إلى 10"
+
+#: pushdownoptions.php:801
+msgid "Show the banner on?"
+msgstr "عرض لافتة على؟"
+
+#: pushdownoptions.php:801
+msgid "All Pages"
+msgstr "جميع الصفحات"
+
+#: pushdownoptions.php:801
+msgid "HomePage Only"
+msgstr "الصفحة الرئيسية فقط"
+
+#: pushdownoptions.php:801
+msgid "Specific Pages Only"
+msgstr "صفحات معينة فقط"
+
+#: pushdownoptions.php:804
+msgid "Page Titles"
+msgstr "عنوان الصفحه"
+
+#: pushdownoptions.php:804
+msgid ""
+"Titles of the page separated by commas on which to show the banner(Case "
+"Sensitive).Type 'Home' as title to show on homepage"
+msgstr ""
+"عناوين الصفحة مفصولة بفواصل التي تريد إظهار الشعار (القضية الحساسة). اكتب "
+"'الصفحة الرئيسية' كعنوان تظهر على الصفحة الرئيسية"
+
+#: pushdownoptions.php:806
+msgid "Note Only one Push down Banner can be shown on a single page"
+msgstr "ملاحظة يمكن أن تظهر دفعة واحدة فقط أسفل الشعار على صفحة واحدة"
+
+#: pushdownoptions.php:807
+msgid "Placement: First Item on Page"
+msgstr "التنسيب: البند الأول على الصفحة"
+
+#: pushdownoptions.php:810
+msgid "Placement: Div ID"
+msgstr "التنسيب: شعبة معرف"
+
+#: pushdownoptions.php:810
+msgid ""
+"Id of div or any other html element  in which pushdown banner should appear"
+msgstr "معرف div أو أي عنصر html الأخرى في بوشدوون الذي يجب أن يظهر الشعار"
+
+#: pushdownoptions.php:810
+msgid ""
+"Note If placing into a Post, manually add a new DIV layer in your post like "
+"this"
+msgstr ""
+"ملاحظة إذا وضع في المشاركة، يدويا إضافة طبقة DIV جديدة في رسالتك مثل هذا"
+
+#: pushdownoptions.php:810
+msgid "Then add \"pushdownpost\" in the box above"
+msgstr "قم بإضافة \"pushdownpost\" في المربع أعلاه"
+
+#: pushdownoptions.php:810
+msgid "Placement of Push down Banner?"
+msgstr "تحديد مستوى دفع أسفل لافتات"
+
+#: pushdownoptions.php:810
+msgid "Start of Div"
+msgstr "بداية الدرجة"
+
+#: pushdownoptions.php:810
+msgid "End of Div"
+msgstr "نهاية الدرجة"
+
+#: pushdownoptions.php:812
+msgid "Add CSS above your Push Down Banner"
+msgstr "إضافة CSS فوق \"الشعار\" الخاص بك دفع أسفل لافتات"
+
+#: pushdownoptions.php:814
+msgid "Add CSS below your Push Down Banner"
+msgstr "إضافة المغلق أدناه الخاص بك دفع أسفل لافتات"
+
+#: pushdownoptions.php:899
+msgid "Preview Banner"
+msgstr "معاينة راية"
+
+#: pushdownoptions.php:899
+msgid "Save Banner"
+msgstr "حفظ راية"
+
+#: pushdownbanner.php:4
+msgid "Push Down Banners (Free Version)"
+msgstr "دفع أسفل لافتات (نسخة مجانية)"
+
+#: pushdownbanner.php:6
+msgid ""
+"Create professional push down banners for any page on your Wordpress site."
+msgstr "إنشاء دفع أسفل لافتات المهنية لأي صفحة على موقع وورد الخاص بك."
+
+#~ msgid "Weekly Stats"
+#~ msgstr "الإحصاءات الأسبوعية"
+
+#~ msgid "Monthly Stats"
+#~ msgstr "الإحصاءات الشهرية"
+
+#~ msgid "Month"
+#~ msgstr "الشهر"
+
+#~ msgid "Date"
+#~ msgstr "التاريخ"
+
+#~ msgid "Week"
+#~ msgstr "أسبوع"
+
+#~ msgid "Clicks"
+#~ msgstr "نقرات"
+
+#~ msgid "Impressions"
+#~ msgstr "ظهور"
+
+#~ msgid "Opens"
+#~ msgstr "يفتح"
+
+#~ msgid "Click Through Rate"
+#~ msgstr "نسبة النقر إلى الظهور"
+
+#~ msgid "Monthly"
+#~ msgstr "شهرياً"
+
+#~ msgid "Daily"
+#~ msgstr "يومي"
+
+#~ msgid "Weekly"
+#~ msgstr "اسبوعياً"
+
+#~ msgid "Stats History"
+#~ msgstr "احصائيات التاريخ"
+
+#~ msgid "No history found."
+#~ msgstr "لم يتم العثور على التاريخ."
+
+#~ msgid "History"
+#~ msgstr "التاريخ"
+
+#~ msgid "HISTORY"
+#~ msgstr "التاريخ"
+
+#~ msgid "My Push Down Banners Weekly Stats"
+#~ msgstr "دفع أسفل لافتات الإحصائيات الأسبوعية"
+
+#~ msgid "Imp. this week"
+#~ msgstr "ظهور هذا الاسبوع"
+
+#~ msgid "Opens this week"
+#~ msgstr "يفتح هذا الأسبوع"
+
+#~ msgid "Clicks this week"
+#~ msgstr "ينقر هذا الأسبوع"
+
+#~ msgid "My Push Down Banners Monthly Stats"
+#~ msgstr "دفع أسفل لافتات الإحصائيات الشهرية"
+
+#~ msgid "Imp. this month"
+#~ msgstr "ظهور هذا الشهر"
+
+#~ msgid "Opens this month"
+#~ msgstr "يفتح هذا الشهر"
+
+#~ msgid "Clicks this month"
+#~ msgstr "ينقر هذا الشهر"
+
+#~ msgid "Please make sure first banner, main banner images are uploaded"
+#~ msgstr "يرجى التأكد من راية الأول، يتم تحميل الصور راية الرئيسية"
+
+#~ msgid "Please make sure first and main flash banner files are uploaded"
+#~ msgstr "الرجاء التأكد من تحميل ملفات فلاش راية الأولى والرئيسية"
+
+#~ msgid "Please make sure close button image is uploaded"
+#~ msgstr "يرجى التأكد يتم تحميل المؤكد صورة زر وثيقة"
+
+#~ msgid ""
+#~ "Please make sure first banner, main banner and close button images are "
+#~ "uploaded"
+#~ msgstr ""
+#~ "الرجاء التأكد من الشعار الأول والشعار الرئيسي والزر إغلاق الصور التي تم "
+#~ "تحميلها"
+
+#~ msgid "Please make sure close button and main banner images are uploaded"
+#~ msgstr "الرجاء التأكد من زر إغلاق والشعار الرئيسي الصور التي تم تحميلها"
+
+#~ msgid ""
+#~ "Please make sure first flash banner, main flash banner , first backup and "
+#~ "main backup images are uploaded"
+#~ msgstr ""
+#~ "يرجى التأكد من أول لافتة فلاش، لافتة فلاش الرئيسي، والنسخ الاحتياطي الأول "
+#~ "والصور الاحتياطية الرئيسية التي تم تحميلها"
+
+#~ msgid ""
+#~ "Please make sure main flash banner and main backup images are uploaded"
+#~ msgstr ""
+#~ "الرجاء التأكد من الرئيسي لافتة فلاش وصور النسخ الاحتياطي الرئيسية التي تم "
+#~ "تحميلها"
+
+#~ msgid "Please make sure main flash banner file is uploaded"
+#~ msgstr "الرجاء التأكد من أن يتم تحميل الملف الرئيسي لافتة فلاش"
+
+#~ msgid "Type of banner:"
+#~ msgstr "نوع من شعار:"
+
+#~ msgid "Flash Banner"
+#~ msgstr "فلاش لافتة إعلانية"
+
+#~ msgid "HTML Banner"
+#~ msgstr "HTML راية"
+
+#~ msgid ""
+#~ "There are 4 different kinds of HTML Push Down Banners, select the style "
+#~ "that you'll like to create"
+#~ msgstr ""
+#~ "وهناك 4 أنواع مختلفة من دفع HTML أسفل لافتات، حدد النمط الذي سوف ترغب في "
+#~ "إنشاء"
+
+#~ msgid "Option 1"
+#~ msgstr "الخيار 1"
+
+#~ msgid "2 html banners (Open Banner &amp; Main Banner ) + Close button"
+#~ msgstr "2 شعارات html (شعار فتح &amp; الشعار الرئيسي) + زر إغلاق"
+
+#~ msgid "Option 2"
+#~ msgstr "الخيار 2"
+
+#~ msgid "2 html banners (Open Banner  &amp; Main Banner ) + Auto-Close"
+#~ msgstr "2 شعارات html (شعار فتح &amp; الشعار الرئيسي) + السيارات-إغلاق"
+
+#~ msgid "Option 3"
+#~ msgstr "الخيار 3"
+
+#~ msgid "1 html banner (Main Banner ) + Auto-Opens + Close Button"
+#~ msgstr "1 إتش تي أم ال الشعار (شعار الرئيسية) + السيارات-يفتح الزر إغلاق"
+
+#~ msgid "Option 4"
+#~ msgstr "الخيار 4"
+
+#~ msgid "1 html banner (Main Banner ) + Auto-Open &amp; Close"
+#~ msgstr "1 إتش تي أم ال الشعار (شعار الرئيسية) + السيارات-فتح وإغلاق"
+
+#~ msgid "First/Open HTML Banner"
+#~ msgstr "الأول / فتح HTML راية:"
+
+#~ msgid ""
+#~ "In your html code include this code in onclick event or href\n"
+#~ "  to open main html banner"
+#~ msgstr ""
+#~ "في الكود الخاص بك يتضمن هذا الرمز في الحدث onClick أو href لفتح راية أتش "
+#~ "تي أم أل الرئيسي"
+
+#~ msgid "OPEN BUTTON CODE"
+#~ msgstr "رمز الزر فتح"
+
+#~ msgid "CLICK TO OPEN"
+#~ msgstr "انقر لفتح"
+
+#~ msgid "OR"
+#~ msgstr "يا"
+
+#~ msgid "ROLLOVER TO OPEN"
+#~ msgstr "الانتقال إلى فتح"
+
+#~ msgid "Enter HTML Code for your First Banner"
+#~ msgstr "أدخل الكود للراية الأولى الخاصة بك"
+
+#~ msgid "Enter the width of first html banner"
+#~ msgstr "أدخل عرض أول راية أتش تي أم أل"
+
+#~ msgid "Enter the heigth of first html banner"
+#~ msgstr "أدخل heigth أول راية أتش تي أم أل"
+
+#~ msgid "When the HTML banner opens the first banner will disappear?"
+#~ msgstr "عندما يفتح شعار إتش تي أم ال سوف تختفي رأيه الأول؟"
+
+#~ msgid ""
+#~ "In your html code add toggle(); function to  onclick event or href\n"
+#~ "  to open main html banner"
+#~ msgstr ""
+#~ "في التعليمات البرمجية ل html الخاص بك بإضافة toggle()؛ الدالة إلى الحدث "
+#~ "onclick أو href لفتح لافتة html الرئيسية"
+
+#~ msgid "Main HTML Banner"
+#~ msgstr "الرئيسية HTML راية:"
+
+#~ msgid ""
+#~ "If you want to track clicks on your main html banner\n"
+#~ "  add this code to onclick event of your ad link"
+#~ msgstr ""
+#~ "إذا كنت تريد أن تتبع النقرات على لافتة أتش تي أم أل الرئيسي إضافة هذا "
+#~ "الرمز إلى الحدث onClick ارتباط إعلانك"
+
+#~ msgid "Main Banner Type"
+#~ msgstr "الرئيسية راية نوع"
+
+#~ msgid "Html Code"
+#~ msgstr "كود HTML"
+
+#~ msgid "External file"
+#~ msgstr "ملف خارجي"
+
+#~ msgid "Enter HTML Code for your Main Banner"
+#~ msgstr "أدخل الكود للراية الرئيسية الخاصة بك"
+
+#~ msgid "Enter full Link for your Main Banner File"
+#~ msgstr "أدخل رابط الكامل لجهودكم الملف راية الرئيسية"
+
+#~ msgid ""
+#~ "The file could be .html or .php e.g 'http://www.someserver.com/somefile."
+#~ "php'"
+#~ msgstr ""
+#~ "يمكن أتش تي أم أل الملف أو فب سبيل المثال 'http://www.someserver.com/"
+#~ "somefile.php \""
+
+#~ msgid "Enter the width of main html banner"
+#~ msgstr "أدخل عرض راية أتش تي أم أل الرئيسي"
+
+#~ msgid "Enter the heigth of main html banner"
+#~ msgstr "أدخل heigth شعار أتش تي أم أل الرئيسي"
+
+#~ msgid "Do you want to add a Close Button?"
+#~ msgstr "هل تريد إضافة \"زر إغلاق\"؟"
+
+#~ msgid ""
+#~ "In your html code this code to  onclick event or href\n"
+#~ "  to close html banner"
+#~ msgstr ""
+#~ "في html رمز هذه التعليمة البرمجية للحدث onclick أو href لإغلاق شعار إتش "
+#~ "تي أم ال"
+
+#~ msgid "CLOSE BUTTON CODE"
+#~ msgstr "رمز الزر إغلاق"
+
+#~ msgid "CLICK TO CLOSE"
+#~ msgstr "انقر فوق \"إغلاق\"."
+
+#~ msgid "ROLLOVER TO CLOSE"
+#~ msgstr "الانتقال إلى إغلاق"
+
+#~ msgid "ROLLOFF TO CLOSE"
+#~ msgstr "رد إلى إغلاق"
+
+#~ msgid ""
+#~ "If you are using option first html banner disapper when main banner opens "
+#~ "then add toggle(0); to onlclick or href to close html banner"
+#~ msgstr ""
+#~ "إذا كنت تستخدم الخيار الأول ديسابير لافتة html عند فتح الشعار الرئيسي ثم "
+#~ "قم بإضافة toggle(0)؛ أونلكليك أو href لإغلاق شعار إتش تي أم ال"
+
+#~ msgid "Close Banner"
+#~ msgstr "إغلاق لافتة"
+
+#~ msgid "Use our generic close button"
+#~ msgstr "استخدام لدينا زر قريب عام"
+
+#~ msgid "Or, Upload your own"
+#~ msgstr "أو تحميل بنفسك"
+
+#~ msgid "Select 1 close image"
+#~ msgstr "حدد 1 صورة وثيقة"
+
+#~ msgid "Add extra code to the close button?"
+#~ msgstr "إضافة رمز إضافية إلى زر الإغلاق؟"
+
+#~ msgid "(the code to execute when close button is clicked)"
+#~ msgstr "(رمز لتنفيذ عندما يتم النقر على زر وثيقة)"
+
+#~ msgid "Enter the code to add to close button"
+#~ msgstr "أدخل رمز لإضافة زر لإغلاق"
+
+#~ msgid "Will you have an open button?"
+#~ msgstr "سيكون لديك زر فتح؟"
+
+#~ msgid ""
+#~ "Create your small first banner. Add a button that says Click here to "
+#~ "expand.\n"
+#~ "  On that button add this Actionscript"
+#~ msgstr ""
+#~ "إنشاء الشعار الخاص بك أول الصغيرة. أضف زر يقول انقر هنا لتوسيع.\n"
+#~ "  على هذا الزر إضافة هذا اكشن"
+
+#~ msgid "To expand banner on rollover add this Actionscript"
+#~ msgstr "لتوسيع نطاق رأيه في التمديد إضافة هذا اكشن"
+
+#~ msgid "Change First/Open banner flash file(swf)"
+#~ msgstr "التغيير الأول / فتح ملف راية فلاش (فرنك سويسري)"
+
+#~ msgid "Upload your First/Open banner flash file(swf)"
+#~ msgstr "تحميل الخاص بك أولاً/فتح لافتة file(swf) فلاش"
+
+#~ msgid "When the Main Flash banner opens the first banner will disappear?"
+#~ msgstr "عند فتح لافتة \"فلاش الرئيسية\" سوف تختفي رأيه الأول؟"
+
+#~ msgid "In your flash code add toggle(); function to   Actionscript"
+#~ msgstr ""
+#~ "في التعليمات البرمجية الخاصة بك فلاش إضافة toggle()؛ الدالة على اكشن"
+
+#~ msgid ""
+#~ "And if you have your own flash close button \n"
+#~ " On that button add this Actionscript"
+#~ msgstr ""
+#~ "وإذا كان لديك الخاص بك الزر إغلاق الفلاش على هذا الزر إضافة هذا اكشن"
+
+#~ msgid "To close banner on rollover add this Actionscript"
+#~ msgstr "ليغلق افتة على التمديد إضافة هذا أكشن"
+
+#~ msgid ""
+#~ "If you want to track clicks on flash banner.\n"
+#~ "  Add this Actionscript on Ad link"
+#~ msgstr ""
+#~ "إذا كنت تريد أن تتبع النقرات على لافتة فلاش. إضافة هذه أكشن على رابط "
+#~ "الإعلان"
+
+#~ msgid "Change main banner flash file(swf)"
+#~ msgstr "تغيير الشعار الرئيسي file(swf) فلاش"
+
+#~ msgid "Upload your main banner flash file(swf)"
+#~ msgstr "تحميل file(swf) فلاش الشعار الرئيسي الخاص بك"
+
+#~ msgid "Set the height of your main banner in the first/opening state"
+#~ msgstr "تعيين ارتفاع الشعار الرئيسي الخاص بك في الحالة الأولى/افتتاح"
+
+#~ msgid "Will you have a close button in your flash file?"
+#~ msgstr "سيكون لديك زر الإغلاق في ملف الفلاش الخاص بك؟"
+
+#~ msgid ""
+#~ "Add a visible close button in your main banner flash file.\n"
+#~ "  On that button add this Actionscript"
+#~ msgstr ""
+#~ "إضافة زر إغلاق مرئية في ملف راية فلاش الرئيسي الخاص بك. على هذا الزر "
+#~ "إضافة هذا أكشن"
+
+#~ msgid "Will you have a regular close button under your flash banner?"
+#~ msgstr "يكون لديك زر إغلاق عادية تحت لافتة فلاش الخاصة بك؟"
+
+#~ msgid "Do you want to have backup image for your flash file?"
+#~ msgstr "هل تريد أن يكون صورة احتياطية لملف الفلاش الخاص بك؟"
+
+#~ msgid ""
+#~ "Change First/Open banner backup image (jpg, gif, png, max file size 50kb)"
+#~ msgstr ""
+#~ "تغيير صورة الشعار الأول/فتح النسخ الاحتياطي (jpg، gif، بابوا نيو غينيا، "
+#~ "حجم الملف الحد الأقصى 50 كيلو بايت)"
+
+#~ msgid ""
+#~ "Upload your First/Open banner backup image (jpg, gif, png, max file size "
+#~ "50kb)"
+#~ msgstr ""
+#~ "تحميل أول / فتح صورة لافتة الاحتياطية الخاصة بك (JPG، GIF، PNG، ملف الحد "
+#~ "الأقصى لحجم 50KB)"
+
+#~ msgid "Change Main banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "تغيير صورة النسخ الاحتياطي الشعار الرئيسي (jpg، gif، بابوا نيو غينيا، حجم "
+#~ "الملف الحد الأقصى 250 كيلو بايت)"
+
+#~ msgid ""
+#~ "Upload your Main banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "تحميل الصورة الخاصة بك الرئيسية لافتة النسخ الاحتياطي (jpg، gif، بابوا "
+#~ "نيو غينيا، حجم الملف الحد الأقصى 250 كيلو بايت)"
+
+#~ msgid ""
+#~ "There are 4 different kinds of image Push Down Banners, select the style "
+#~ "that you'll like to create"
+#~ msgstr ""
+#~ "وهناك 4 أنواع مختلفة من دفع الصورة \"أسفل لافتات\"، حدد النمط الذي سوف "
+#~ "ترغب في إنشاء"
+
+#~ msgid "2 Images (Open Banner &amp; Main Banner ) + Close button"
+#~ msgstr "2 الصور (شعار فتح &amp; الشعار الرئيسي) + زر إغلاق"
+
+#~ msgid "2 Images (Open Banner  &amp; Main Banner ) + Auto-Close"
+#~ msgstr "2 الصور (شعار فتح &amp; الشعار الرئيسي) + السيارات-إغلاق"
+
+#~ msgid "1 Image (Main Banner ) + Auto-Opens + Close Button"
+#~ msgstr "صورة 1 (الشعار الرئيسي) + السيارات-يفتح الزر إغلاق"
+
+#~ msgid "First/Open Banner"
+#~ msgstr "الأول / فتح راية:"
+
+#~ msgid "When you click this image, will this image dissappear?"
+#~ msgstr "عند النقر فوق هذه الصورة، سوف تختفي هذه الصورة؟"
+
+#~ msgid "When you click this image, it will open the Push Down Banner?"
+#~ msgstr "عند النقر فوق هذه الصورة، فإنه سيتم فتح \"دفع الراية إلى أسفل\"؟"
+
+#~ msgid "If no, Please set the URL you want it to link to http://"
+#~ msgstr "إذا لا، الرجاء تعيين عنوان URL الذي تريد الارتباط إلى http://"
+
+#~ msgid "Set the Speed/Time which the banner will open or close"
+#~ msgstr "تعيين السرعة/الوقت الذي الراية سيتم فتح أو إغلاق"
+
+#~ msgid "Note Only one Push down Banner can be shown on a single page."
+#~ msgstr "ملاحظة يمكن أن تظهر دفعة واحدة فقط أسفل الشعار على صفحة واحدة."
+
+#~ msgid ""
+#~ "Id of div or any other html element  in which pushdown banner should "
+#~ "appear "
+#~ msgstr "معرف div أو أي عنصر html الأخرى في بوشدوون الذي يجب أن يظهر الشعار"
+
+#~ msgid "Expandable Banners"
+#~ msgstr "شعارات قابلة للتوسيع"
+
+#~ msgid "Add New Expandable Banner"
+#~ msgstr "إضافة جديد للتوسيع راية"
+
+#~ msgid "Click Through Rate (%)"
+#~ msgstr "نسبة النقر إلى الظهور (٪)"
+
+#~ msgid "No history found"
+#~ msgstr "لم يتم العثور على التاريخ"
+
+#~ msgid "Melodic Media Expandable Banner"
+#~ msgstr "لحني وسائل الإعلام توسيع راية"
+
+#~ msgid "My Expandable Banners Monthly Stats"
+#~ msgstr "بلدي توسيع لافتات الإحصاءات الشهرية"
+
+#~ msgid "Expandable Banner"
+#~ msgstr "توسيع راية"
+
+#~ msgid "You have currently no expandable banners"
+#~ msgstr "ليس لديك أي شعارات قابلة للتوسيع"
+
+#~ msgid "My Expandable Banners Daily Stats"
+#~ msgstr "بلدي توسيع لافتات الإحصائيات اليومية"
+
+#~ msgid "You have currently no expandable banners."
+#~ msgstr "ليس لديك أي شعارات قابلة للتوسيع."
+
+#~ msgid "My Expandable Banners Weekly Stats"
+#~ msgstr "بلدي توسيع لافتات الإحصاءات الأسبوعية"
+
+#~ msgid "My Expandable Banners"
+#~ msgstr "بلدي لافتات للتوسيع"
+
+#~ msgid "Please make sure backup image is uploaded"
+#~ msgstr "يرجى التأكد يتم تحميل المؤكد صورة احتياطية"
+
+#~ msgid "Edit Expandable Banner"
+#~ msgstr "تحرير توسيع راية"
+
+#~ msgid "New Expandable Banner"
+#~ msgstr "إضافة جديد للتوسيع راية"
+
+#~ msgid "First/Open Banner:"
+#~ msgstr "الأول / فتح راية:"
+
+#~ msgid "Expand On"
+#~ msgstr "قم بتوسيع في"
+
+#~ msgid "Rollover"
+#~ msgstr "يتدحرج"
+
+#~ msgid "Click"
+#~ msgstr "انقر"
+
+#~ msgid "2nd Banner:"
+#~ msgstr "ثانيا راية:"
+
+#~ msgid "First/Open Flash Banner:"
+#~ msgstr "الأول / فتح فلاش راية:"
+
+#~ msgid "Upload your first/open banner flash file(swf)"
+#~ msgstr "تحميل أول / فتح راية ملف فلاش (فرنك سويسري)"
+
+#~ msgid ""
+#~ "Add this Actionscript on link or button to open/expand banner on click"
+#~ msgstr "إضافة هذه أكشن على ارتباط أو زر لفتح / توسيع افتة على نقرة"
+
+#~ msgid "To open banner on rollover add this Actionscript"
+#~ msgstr "لفتح لافتة على التمديد إضافة هذا أكشن"
+
+#~ msgid "2nd Flash Banner:"
+#~ msgstr "ثانيا فلاش راية:"
+
+#~ msgid ""
+#~ "where 'enter_banner_name' is the name of your expandable banner.Make sure "
+#~ "that you replace the spaces in name with '_'."
+#~ msgstr ""
+#~ "حيث 'enter_banner_name \"هو اسم banner.Make قابلة للتوسيع الخاص بك من أن "
+#~ "قمت باستبدال مسافات في الاسم مع' _ '."
+
+#~ msgid "Change 2nd banner flash file(swf)"
+#~ msgstr "تغيير ثانيا ملف راية فلاش (فرنك سويسري)"
+
+#~ msgid "Upload your 2nd banner flash file(swf)"
+#~ msgstr "تحميل ثانيا ملف راية فلاش (فرنك سويسري)"
+
+#~ msgid ""
+#~ "Change First/Open banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "التغيير الأول / فتح صورة لافتة احتياطية (JPG، GIF، PNG، ملف الحد الأقصى "
+#~ "لحجم 250KB)"
+
+#~ msgid "Change 2nd banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "تغيير 2ND صورة راية احتياطية (JPG، GIF، PNG، ملف الحد الأقصى لحجم 250KB)"
+
+#~ msgid ""
+#~ "Upload your 2nd banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "تحميل 2ND صورة راية الاحتياطية الخاصة بك (JPG، GIF، PNG، ملف الحد الأقصى "
+#~ "لحجم 250KB)"
+
+#~ msgid "First/Open HTML Banner:"
+#~ msgstr "الأول / فتح HTML راية:"
+
+#~ msgid "Main HTML Banner:"
+#~ msgstr "الرئيسية HTML راية:"
+
+#~ msgid "Does your Main HTML Code contains Javascript?"
+#~ msgstr "هل لديك الرئيسي كود HTML يحتوي جافا سكريبت؟"
+
+#~ msgid "Use a Close button?"
+#~ msgstr "استخدام الزر إغلاق؟"
+
+#~ msgid "Close Button:"
+#~ msgstr "زر اغلاق:"
+
+#~ msgid "Select 1 close image:"
+#~ msgstr "حدد 1 صورة وثيقة:"
+
+#~ msgid "Set Placement of close button:"
+#~ msgstr "تعيين موضع زر الإغلاق:"
+
+#~ msgid "Top-Left"
+#~ msgstr "أعلي يسار"
+
+#~ msgid "Top-Right"
+#~ msgstr "أعلي يمين"
+
+#~ msgid "Bottom-Left"
+#~ msgstr "اسفل يسار"
+
+#~ msgid "Bottom-Right"
+#~ msgstr "اسفل يمين"
+
+#~ msgid "Do you want close button on outside?"
+#~ msgstr "هل تريد زر الإغلاق في الخارج؟"
+
+#~ msgid "Enter the code to add to close button:"
+#~ msgstr "أدخل رمز لإضافة زر لإغلاق:"
+
+#~ msgid "Expand Direction:"
+#~ msgstr "توسيع الاتجاه:"
+
+#~ msgid "Left-Top"
+#~ msgstr "أعلى اليسار"
+
+#~ msgid "Center-Top"
+#~ msgstr "وسط الأعلى"
+
+#~ msgid "Right-Top"
+#~ msgstr "أعلى اليمين"
+
+#~ msgid "Left-Center"
+#~ msgstr "يسار الوسط"
+
+#~ msgid "Center-Center"
+#~ msgstr "مركز مركز"
+
+#~ msgid "Right-Center"
+#~ msgstr "وسط اليمين"
+
+#~ msgid "Left-Bottom"
+#~ msgstr "أسفل اليسار"
+
+#~ msgid "Center-Bottom"
+#~ msgstr "مركز القاع"
+
+#~ msgid "Right-Bottom"
+#~ msgstr "اسفل يمين"
+
+#~ msgid "Animate?"
+#~ msgstr "تحريك؟"
+
+#~ msgid "YES"
+#~ msgstr "نعم"
+
+#~ msgid "NO"
+#~ msgstr "لا"
+
+#~ msgid "Animation Speed"
+#~ msgstr "حركة سريعة"
+
+#~ msgid "Will this be a Corner Page Peel Banner?"
+#~ msgstr "سيكون هذا الركن الصفحة التقشير راية؟"
+
+#~ msgid "seconds  - Set 0 for right away."
+#~ msgstr "ثوان - تعيين 0 لالفور."
+
+#~ msgid ""
+#~ "Titles of the page separated by commas on which to show the banner.(Case "
+#~ "Sensitive)"
+#~ msgstr "عناوين الصفحات مفصولة بفواصل التي لإظهار شعار (القضية الحساسة)"
+
+#~ msgid ""
+#~ "Id of div or any other html element  in which expandable banner should "
+#~ "appear"
+#~ msgstr "معرف شعبة أو أي عنصر HTML الأخرى التي يجب أن تظهر لافتة للتوسيع"
+
+#~ msgid "Then add \"expandablepost\" in the box above"
+#~ msgstr "ثم تضيف \"expandablepost\" في المربع أعلاه"
+
+#~ msgid "Placement of Expandable Banner?"
+#~ msgstr "وضع توسيع راية؟"
+
+#~ msgid "Add CSS above your Expandable Banner"
+#~ msgstr "إضافة CSS فوق بك توسيع راية"
+
+#~ msgid "Add CSS below your Expandable Banner"
+#~ msgstr "إضافة CSS أدناه بك توسيع راية"
+
+#~ msgid "Screen size to display on:"
+#~ msgstr "حجم الشاشة لعرضها على:"
+
+#~ msgid "All Sizes"
+#~ msgstr "جميع المقاسات"
+
+#~ msgid "Desktop Only"
+#~ msgstr "سطح المكتب فقط"
+
+#~ msgid "Tablet Only"
+#~ msgstr "قرص فقط"
+
+#~ msgid "Mobile Only"
+#~ msgstr "الجوال فقط"
+
+#~ msgid "Screen Width"
+#~ msgstr "عرض الشاشة"
+
+#~ msgid ""
+#~ "Create professional expandable banners for any page on your Wordpress "
+#~ "site."
+#~ msgstr "إنشاء لافتات توسيع المهنية لأي صفحة على موقع وورد الخاص بك."
